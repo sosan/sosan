@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats-f0ercr4xm.vercel.app/api/top-langs/?username=sosan)]
+![Top Langs](https://github-readme-stats-f0ercr4xm.vercel.app/api/top-langs/?username=sosan)
 
 <!--
 **sosan/sosan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
