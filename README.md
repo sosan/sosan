@@ -24,13 +24,6 @@ Hi, My name is Jose Luis, I'm from Mallorca(Spain). I'm game developer.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-
-<!-- 
-![Stats](https://github-readme-stats-f0ercr4xm.vercel.app/api?username=sosan&show_icons=true&theme=monokai?count_private=true)
-
-*NOTE: Top languages does not indicate skill level, it's a github metric of which languages i have the most code on github
-![Top Langs](https://github-readme-stats-f0ercr4xm.vercel.app/api/top-langs/?username=sosan&show_icons=true&theme=monokai) -->
-
 <a href="https://github.com/sosan">
   <img align="center" src="https://github-readme-stats-f0ercr4xm.vercel.app/api?username=sosan&show_icons=true&theme=monokai" alt="github stats" />
 </a>
@@ -39,9 +32,9 @@ Hi, My name is Jose Luis, I'm from Mallorca(Spain). I'm game developer.
   <img align="center" src="https://github-readme-stats-f0ercr4xm.vercel.app/api/top-langs/?username=sosan&show_icons=true&theme=monokai" alt="github top languages stats" />
 </a>
 
-<a href="https://sosan.github.io">
+<!-- <a href="https://github.com/sosan">
   <img align="center" src="https://github-readme-stats-f0ercr4xm.vercel.app/api/pin/?username=sosan&repo=sosan.github.io&theme=monokai" />
-</a>
+</a> -->
 
 
 <!--
