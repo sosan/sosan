@@ -1,4 +1,4 @@
-### Hi there, I'm [Jose Luis!](https://sosan.github.io) 👋
+### Hi there, I'm [Jose Luis!](https://sosan.github.io/sosan/) 👋
 
 <a href="https://codesandbox.io/u/sosan">
   <img align="left" alt="Jose Luis | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/sosan/sosan/master/assets/codesandbox.svg" />
@@ -31,23 +31,3 @@ Hi, My name is Jose Luis, I'm from Mallorca(Spain). I'm game developer.
 <a href="https://github.com/sosan">
   <img align="center" src="https://github-readme-stats-f0ercr4xm.vercel.app/api/top-langs/?username=sosan&show_icons=true&theme=monokai" alt="github top languages stats" />
 </a>
-
-<!-- <a href="https://github.com/sosan">
-  <img align="center" src="https://github-readme-stats-f0ercr4xm.vercel.app/api/pin/?username=sosan&repo=sosan.github.io&theme=monokai" />
-</a> -->
-
-
-<!--
-**sosan/sosan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
