@@ -34,15 +34,16 @@ Hi, My name is Jose Luis, I'm from Mallorca(Spain). I'm game developer.
 <a href="https://university.redislabs.com/certificates/user/3498/course/course-v1:redislabs+RU102JS+2020_04">
   <img align="center" src="https://university.redislabs.com/static/certificates/images/ico-honor.png" height="20" alt="certificates redis" />Certificate with Honor Redis for JavaScript Developers
 </a>
+<br>
 
 <a href="https://university.redislabs.com/certificates/user/3498/course/course-v1:redislabs+RU202+2020_01">
   <img align="center" src="https://university.redislabs.com/static/certificates/images/ico-honor.png" height="20" alt="certificates redis" />Certificate with Honor Redis Streams
 </a>
-
+<br>
 <a href="https://university.redislabs.com/certificates/user/3498/course/course-v1:redislabs+RU102J+2019_06">
   <img align="center" src="https://university.redislabs.com/static/certificates/images/ico-honor.png" height="20" alt="certificates redis" />Certificate with Honor Redis for Java Developers
 </a>
-
+<br>
 <a href="https://github.com/sosan">
   <img align="center" src="https://github-readme-stats-f0ercr4xm.vercel.app/api?username=sosan&show_icons=true&theme=monokai" alt="github stats" />
 </a>
