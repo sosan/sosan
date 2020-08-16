@@ -31,17 +31,18 @@ Hi, My name is Jose Luis, I'm from Mallorca(Spain). I'm game developer.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
+<img align="center" src="https://university.redislabs.com/static/certificates/images/ico-honor.png" height="20" alt="certificates redis" />&nbsp;
 <a href="https://university.redislabs.com/certificates/user/3498/course/course-v1:redislabs+RU102JS+2020_04">
-  <img align="center" src="https://university.redislabs.com/static/certificates/images/ico-honor.png" height="20" alt="certificates redis" /> Certificate with Honor Redis for JavaScript Developers
+Certificate with Honor Redis for JavaScript Developers
 </a>
 <br>
 
 <a href="https://university.redislabs.com/certificates/user/3498/course/course-v1:redislabs+RU202+2020_01">
-  <img align="center" src="https://university.redislabs.com/static/certificates/images/ico-honor.png" height="20" alt="certificates redis" /> Certificate with Honor Redis Streams
+  <img align="center" src="https://university.redislabs.com/static/certificates/images/ico-honor.png" height="20" alt="certificates redis" />Certificate with Honor Redis Streams
 </a>
 <br>
 <a href="https://university.redislabs.com/certificates/user/3498/course/course-v1:redislabs+RU102J+2019_06">
-  <img align="center" src="https://university.redislabs.com/static/certificates/images/ico-honor.png" height="20" alt="certificates redis" /> Certificate with Honor Redis for Java Developers
+  <img align="center" src="https://university.redislabs.com/static/certificates/images/ico-honor.png" height="20" alt="certificates redis" />Certificate with Honor Redis for Java Developers
 </a>
 <br>
 <a href="https://github.com/sosan">
