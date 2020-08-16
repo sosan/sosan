@@ -45,7 +45,8 @@ Certificate with Honor Redis Streams
 <a href="https://university.redislabs.com/certificates/user/3498/course/course-v1:redislabs+RU102J+2019_06">
 Certificate with Honor Redis for Java Developers
 </a>
-<br>
+
+
 <a href="https://github.com/sosan">
   <img align="center" src="https://github-readme-stats-f0ercr4xm.vercel.app/api?username=sosan&show_icons=true&theme=monokai" alt="github stats" />
 </a>
