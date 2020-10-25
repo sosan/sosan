@@ -7,7 +7,7 @@ My codesnadbox:
 </a> -->
 
 
-<a href="https://twitter.com/joelwe34">
+<a href="https://twitter.com/joelwe34" target="_blank">
   <img height="30" align="left" alt="Jose Luis | Twitter" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" />
 </a>
 <br>
