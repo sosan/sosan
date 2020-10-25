@@ -13,7 +13,7 @@ My codesnadbox:
 <br>
 <br>
 Hi, My name is Jose Luis, I'm from Mallorca(Spain). I'm game developer.<br>
-- 🔭 I’m currently working on my Space Metroidvania 3D game [Metroidvania 3D](https://github.com/sosan/spacemetroidvania3D)<br>
+- 🔭 I’m currently working on my Space Metroidvania 3D game <a href="https://github.com/sosan/spacemetroidvania3D">[Metroidvania 3D]</a><br>
 - 🌱 I’m currently learning Javascript, Node, React, GraphQL & Typescript<br>
 - 💬 Ask me about anything <a href="https://github.com/sosan/sosan/issues">[here]</a><br>
 <br>
