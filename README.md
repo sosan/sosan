@@ -6,11 +6,12 @@ My codesnadbox:
   <img align="left" alt="Jose Luis | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/sosan/sosan/master/assets/codesandbox.svg" />
 </a> -->
 
-My Twitter:
+
 <a href="https://twitter.com/joelwe34">
   <img height="30" align="left" alt="Jose Luis | Twitter" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" />
 </a>
-
+<br>
+<br>
 Hi, My name is Jose Luis, I'm from Mallorca(Spain). I'm game developer.
 - 🔭 I’m currently working on my Space Metroidvania 3D game [Metroidvania 3D](https://github.com/sosan/spacemetroidvania3D)
 - 🌱 I’m currently learning Javascript, Node, React, GraphQL & Typescript
