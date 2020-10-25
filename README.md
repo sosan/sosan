@@ -23,21 +23,21 @@ Hi, My name is Jose Luis, I'm from Mallorca(Spain). I'm game developer.<br>
 
 
 
-<img align="center" src="https://university.redislabs.com/static/certificates/images/ico-honor.png" height="20" alt="certificates redis" />&nbsp;<a href="https://university.redislabs.com/certificates/user/3498/course/course-v1:redislabs+RU102PY+2020_01">
+<img align="center" src="https://university.redislabs.com/static/certificates/images/ico-honor.png" height="20" alt="certificates redis" />&nbsp;<a href="https://university.redislabs.com/certificates/user/3498/course/course-v1:redislabs+RU102PY+2020_01" target="_blank">
 Certificate with Honor Redis for Python Developers</a>
 <br>
 <img align="center" src="https://university.redislabs.com/static/certificates/images/ico-honor.png" height="20" alt="certificates redis" />&nbsp;
-<a href="https://university.redislabs.com/certificates/user/3498/course/course-v1:redislabs+RU102JS+2020_04">
+<a href="https://university.redislabs.com/certificates/user/3498/course/course-v1:redislabs+RU102JS+2020_04" target="_blank">
 Certificate with Honor Redis for JavaScript Developers
 </a>
 <br>
 <img align="center" src="https://university.redislabs.com/static/certificates/images/ico-honor.png" height="20" alt="certificates redis" />&nbsp;
-<a href="https://university.redislabs.com/certificates/user/3498/course/course-v1:redislabs+RU202+2020_01">
+<a href="https://university.redislabs.com/certificates/user/3498/course/course-v1:redislabs+RU202+2020_01" target="_blank">
 Certificate with Honor Redis Streams
 </a>
 <br>
 <img align="center" src="https://university.redislabs.com/static/certificates/images/ico-honor.png" height="20" alt="certificates redis" />&nbsp;
-<a href="https://university.redislabs.com/certificates/user/3498/course/course-v1:redislabs+RU102J+2019_06">
+<a href="https://university.redislabs.com/certificates/user/3498/course/course-v1:redislabs+RU102J+2019_06" target="_blank">
 Certificate with Honor Redis for Java Developers
 </a>
 
