@@ -12,10 +12,10 @@ My codesnadbox:
 </a>
 <br>
 <br>
-Hi, My name is Jose Luis, I'm from Mallorca(Spain). I'm game developer.
-- 🔭 I’m currently working on my Space Metroidvania 3D game [Metroidvania 3D](https://github.com/sosan/spacemetroidvania3D)
-- 🌱 I’m currently learning Javascript, Node, React, GraphQL & Typescript
-- 💬 Ask me about anything [here](https://github.com/sosan/sosan/issues)
+Hi, My name is Jose Luis, I'm from Mallorca(Spain). I'm game developer.<br>
+- 🔭 I’m currently working on my Space Metroidvania 3D game [Metroidvania 3D](https://github.com/sosan/spacemetroidvania3D)<br>
+- 🌱 I’m currently learning Javascript, Node, React, GraphQL & Typescript<br>
+- 💬 Ask me about anything [here](https://github.com/sosan/sosan/issues)<br>
 
 **Languages and Tools:**  
 
