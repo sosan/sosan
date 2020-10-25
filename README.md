@@ -1,38 +1,28 @@
 ### Hi there, I'm [Jose Luis!](https://sosan.github.io/sosan/) 👋
 
+<!-- 
+My codesnadbox:
 <a href="https://codesandbox.io/u/sosan">
   <img align="left" alt="Jose Luis | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/sosan/sosan/master/assets/codesandbox.svg" />
-</a>
-<a href="https://twitter.com/joelwe34">
-  <img align="left" alt="Jose Luis | Twitter" width="21px" src="https://raw.githubusercontent.com/sosan/sosan/master/assets/twitter.svg" />
-</a>
+</a> -->
 
-<br />
-<br />
+My Twitter:
+<a href="https://twitter.com/joelwe34">
+  <img height="30" align="left" alt="Jose Luis | Twitter" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" />
+</a>
 
 Hi, My name is Jose Luis, I'm from Mallorca(Spain). I'm game developer.
-
 - 🔭 I’m currently working on my Space Metroidvania 3D game [Metroidvania 3D](https://github.com/sosan/spacemetroidvania3D)
 - 🌱 I’m currently learning Javascript, Node, React, GraphQL & Typescript
 - 💬 Ask me about anything [here](https://github.com/sosan/sosan/issues)
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/unity.svg"></code><code><img height="30" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp.svg"></code><code><img height="30" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg"></code><code><img height="30" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/docker.svg"></code><code><img height="30" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg"></code><code><img height="30" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/react.svg"></code><code><img height="30" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/nodejs.svg"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
-<img align="center" src="https://university.redislabs.com/static/certificates/images/ico-honor.png" height="20" alt="certificates redis" />&nbsp;
-<a href="https://university.redislabs.com/certificates/user/3498/course/course-v1:redislabs+RU102PY+2020_01">
+
+
+<img align="center" src="https://university.redislabs.com/static/certificates/images/ico-honor.png" height="20" alt="certificates redis" />&nbsp;<a href="https://university.redislabs.com/certificates/user/3498/course/course-v1:redislabs+RU102PY+2020_01">
 Certificate with Honor Redis for Python Developers</a>
 <br>
 <img align="center" src="https://university.redislabs.com/static/certificates/images/ico-honor.png" height="20" alt="certificates redis" />&nbsp;
