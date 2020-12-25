@@ -13,7 +13,6 @@ My codesnadbox:
 <br>
 <br>
 <img src="https://img.shields.io/github/followers/sosan?style=for-the-badge&logo=appveyor">
-<br>
 <img src="https://img.shields.io/github/stars/sosan?style=for-the-badge&logo=appveyor">
 
 <br>
