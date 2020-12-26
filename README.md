@@ -17,7 +17,6 @@ My codesnadbox:
 <img height="35" src="https://img.shields.io/github/stars/sosan?style=for-the-badge&logo=appveyor">
 
 <br>
-<br>
 Hi, My name is Jose Luis, I'm from Mallorca(Spain). I'm game developer.<br>
 - 🔭 I’m currently working on my Space Metroidvania 3D game <a href="https://github.com/sosan/spacemetroidvania3D">[Metroidvania 3D]</a><br>
 - 🌱 I’m currently learning Javascript, Node, React, GraphQL & Typescript<br>
