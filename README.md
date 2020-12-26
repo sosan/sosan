@@ -8,12 +8,13 @@ My codesnadbox:
 
 
 <a href="https://twitter.com/joelwe34" target="_blank">
-  <img height="30" align="left" alt="Jose Luis | Twitter" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" />
+  <!-- <img height="30" align="left" alt="Jose Luis | Twitter" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" /> -->
+  <img height="35" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white">
 </a>
 <br>
 <br>
-<img src="https://img.shields.io/github/followers/sosan?style=for-the-badge&logo=appveyor">
-<img src="https://img.shields.io/github/stars/sosan?style=for-the-badge&logo=appveyor">
+<img height="35" src="https://img.shields.io/github/followers/sosan?style=for-the-badge&logo=appveyor">
+<img height="35" src="https://img.shields.io/github/stars/sosan?style=for-the-badge&logo=appveyor">
 
 <br>
 <br>
