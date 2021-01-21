@@ -239,16 +239,16 @@
          id="path4" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:55.0595px;line-height:0;font-family:sans-serif;letter-spacing:1px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1.37649;"
-         x="48.866562"
-         y="19.474098"
+         style="font-style:normal;font-weight:normal;font-size:55.0595px;line-height:0;font-family:sans-serif;letter-spacing:1px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1.37649"
+         x="42.041138"
+         y="21.155985"
          id="text106"
          transform="scale(0.94185708,1.0617322)"><tspan
            sodipodi:role="line"
            id="tspan104"
-           x="48.866562"
-           y="19.474098"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.7649px;line-height:1.25;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Bold';fill:#e6e6e6;fill-opacity:1;stroke-width:1.37649;"
+           x="42.041138"
+           y="21.155985"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Bold';fill:#e6e6e6;fill-opacity:1;stroke-width:1.37649"
            dx="0">MySQL</tspan></text>
     </g>
     <image
