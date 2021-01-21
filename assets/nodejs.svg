@@ -285,14 +285,14 @@
      style="fill:url(#paint5_linear)" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:55.0595px;line-height:0;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.37649;letter-spacing:1.20000001px"
-     x="44.619637"
-     y="19.4741"
+     style="font-style:normal;font-weight:normal;font-size:20px;line-height:0;font-family:sans-serif;letter-spacing:1.2px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.37649"
+     x="37.702671"
+     y="20.589737"
      id="text106"
      transform="scale(0.94185708,1.0617322)"><tspan
        sodipodi:role="line"
        id="tspan104"
-       x="44.619637"
-       y="19.4741"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.7649px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Bold';fill:#ffffff;fill-opacity:1;stroke-width:1.37649;">Node.js</tspan></text>
+       x="37.702671"
+       y="20.589737"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Bold';fill:#ffffff;fill-opacity:1;stroke-width:1.37649">Node.js</tspan></text>
 </svg>
