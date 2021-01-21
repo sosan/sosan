@@ -22,9 +22,26 @@ Hi, My name is Jose Luis, I'm from Mallorca(Spain). I'm game developer.<br>
 - 🌱 I’m currently learning Javascript, Node, React, GraphQL & Typescript<br>
 - 💬 Ask me about anything <a href="https://github.com/sosan/sosan/issues">[here]</a><br>
 <br>
-**Languages and Tools:**  
 
-<code><img height="30" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/unity.svg"></code><code><img height="30" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp.svg"></code><code><img height="30" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg"></code><code><img height="30" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/docker.svg"></code><code><img height="30" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg"></code><code><img height="30" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/react.svg"></code><code><img height="30" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/nodejs.svg"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+**Languages and Tools**
+
+![UNITY](https://raw.githubusercontent.com/sosan/sosan/master/assets/unity.svg)
+![C#](https://raw.githubusercontent.com/sosan/sosan/master/assets/csharp.svg)
+![Python](https://raw.githubusercontent.com/sosan/sosan/master/assets/python.svg)
+![Docker](https://raw.githubusercontent.com/sosan/sosan/master/assets/docker.svg)
+![JS](https://raw.githubusercontent.com/sosan/sosan/master/assets/js.svg)
+![Typescript](https://raw.githubusercontent.com/sosan/sosan/master/assets/typescript.svg)
+![React](https://raw.githubusercontent.com/sosan/sosan/master/assets/react.svg)
+![Nodejs](https://raw.githubusercontent.com/sosan/sosan/master/assets/nodejs.svg)
+![Graphql](https://raw.githubusercontent.com/sosan/sosan/master/assets/graphql.svg)
+![Mysql](https://raw.githubusercontent.com/sosan/sosan/master/assets/mysql.svg)
+![Redis](https://raw.githubusercontent.com/sosan/sosan/master/assets/redis.svg)
+![Mongodb](https://raw.githubusercontent.com/sosan/sosan/master/assets/mongodb.svg)
+
+<!-- 
+
+
+<code><img height="30" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/unity.svg"></code><code><img height="30" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp.svg"></code><code><img height="30" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg"></code><code><img height="30" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/docker.svg"></code><code><img height="30" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg"></code><code><img height="30" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/react.svg"></code><code><img height="30" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/nodejs.svg"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> -->
 
 
 
