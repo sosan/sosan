@@ -8,7 +8,6 @@ My codesnadbox:
 
 
 <a href="https://twitter.com/joelwe34" target="_blank">
-  <!-- <img height="30" align="left" alt="Jose Luis | Twitter" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" /> -->
   <img height="35" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white">
 </a>
 <br>
@@ -37,12 +36,6 @@ Hi, My name is Jose Luis, I'm from Mallorca(Spain). I'm game developer.<br>
 ![Mysql](https://raw.githubusercontent.com/sosan/sosan/master/assets/mysql.svg)
 ![Redis](https://raw.githubusercontent.com/sosan/sosan/master/assets/redis.svg)
 ![Mongodb](https://raw.githubusercontent.com/sosan/sosan/master/assets/mongodb.svg)
-
-<!-- 
-
-
-<code><img height="30" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/unity.svg"></code><code><img height="30" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp.svg"></code><code><img height="30" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg"></code><code><img height="30" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/docker.svg"></code><code><img height="30" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg"></code><code><img height="30" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/react.svg"></code><code><img height="30" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/nodejs.svg"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> -->
-
 
 
 <img align="center" src="https://university.redislabs.com/static/certificates/images/ico-honor.png" height="20" alt="certificates redis" />&nbsp;<a href="https://university.redislabs.com/certificates/user/3498/course/course-v1:redislabs+RU102PY+2020_01" target="_blank">
