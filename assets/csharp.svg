@@ -39,13 +39,14 @@
      inkscape:window-height="705"
      id="namedview55"
      showgrid="false"
-     inkscape:zoom="13.810811"
-     inkscape:cx="58.440421"
-     inkscape:cy="15.466732"
+     inkscape:zoom="6.9054055"
+     inkscape:cx="63.032064"
+     inkscape:cy="2.7140018"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g26" />
+     inkscape:current-layer="g26"
+     inkscape:document-rotation="0" />
   <g
      clip-path="url(#clip0)"
      id="g26">
@@ -91,14 +92,14 @@
        id="path20" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-       x="40.403133"
-       y="21.432486"
-       id="text61"><tspan
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#f2f2f2;fill-opacity:1;stroke:none"
+       x="41.561642"
+       y="22.228962"
+       id="text35"><tspan
          sodipodi:role="line"
-         id="tspan59"
-         x="40.403133"
-         y="21.432486"
+         id="tspan33"
+         x="41.561642"
+         y="22.228962"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';fill:#f2f2f2">C#</tspan></text>
   </g>
   <defs
