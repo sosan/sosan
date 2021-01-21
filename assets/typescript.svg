@@ -33,19 +33,6 @@
          stop-opacity="0.1"
          id="stop1312" />
     </linearGradient>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter1363"
-       x="-6.4970525e-05"
-       width="1.0001299"
-       y="-0.00019288126"
-       height="1.0003858">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.0025717501"
-         id="feGaussianBlur1365" />
-    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -54,9 +41,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="96.583659"
-     inkscape:cy="36.248345"
+     inkscape:zoom="5.6"
+     inkscape:cx="55.129195"
+     inkscape:cy="5.2568899"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -74,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -123,14 +110,14 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.10911px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ececec;stroke-width:0.410911">TS</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="102.45044"
-       y="164.55199"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.06499px;line-height:1.25;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Bold';letter-spacing:0.296537px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296537"
+       x="102.08726"
+       y="164.43367"
        id="text1391"><tspan
          sodipodi:role="line"
          id="tspan1389"
-         x="102.45044"
-         y="164.55199"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.64583px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ececec;stroke-width:0.264583">TypeScript</tspan></text>
+         x="102.08726"
+         y="164.43367"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.06499px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Bold';fill:#ececec;stroke-width:0.296537">TypeScript</tspan></text>
   </g>
 </svg>
