@@ -40,12 +40,13 @@
      id="namedview98"
      showgrid="false"
      inkscape:zoom="6.753861"
-     inkscape:cx="51.832966"
+     inkscape:cx="58.15281"
      inkscape:cy="24.87616"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg96" />
+     inkscape:current-layer="svg96"
+     inkscape:document-rotation="0" />
   <path
      d="M102 0H31V32H102C104.761 32 107 29.7614 107 27V5C107 2.23858 104.761 0 102 0Z"
      fill="#0F1418"
@@ -284,7 +285,7 @@
      style="fill:url(#paint5_linear)" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:55.0595px;line-height:0;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.37649"
+     style="font-style:normal;font-weight:normal;font-size:55.0595px;line-height:0;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.37649;letter-spacing:1.20000001px"
      x="44.619637"
      y="19.4741"
      id="text106"
@@ -293,5 +294,5 @@
        id="tspan104"
        x="44.619637"
        y="19.4741"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.7649px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke-width:1.37649">Node.js</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.7649px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Bold';fill:#ffffff;fill-opacity:1;stroke-width:1.37649;">Node.js</tspan></text>
 </svg>
