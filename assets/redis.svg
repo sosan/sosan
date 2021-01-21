@@ -239,16 +239,15 @@
          id="path4" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:20px;line-height:0;font-family:sans-serif;letter-spacing:1.2px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.37649"
-         x="47.211803"
-         y="21.828743"
-         id="text106"
-         transform="scale(0.94185708,1.0617322)"><tspan
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:1.25;font-family:sans-serif;letter-spacing:1px;fill:#f2f2f2;fill-opacity:1;stroke:none"
+         x="43.184021"
+         y="21.718279"
+         id="text873"><tspan
            sodipodi:role="line"
-           id="tspan104"
-           x="47.211803"
-           y="21.828743"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Bold';fill:#ffffff;fill-opacity:1;stroke-width:1.37649">Redis</tspan></text>
+           id="tspan871"
+           x="43.184021"
+           y="21.718279"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';fill:#f2f2f2">Redis</tspan></text>
     </g>
     <image
        width="7.0440078"
