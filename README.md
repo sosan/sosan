@@ -57,11 +57,11 @@ Certificate with Honor Redis for Java Developers
 </a>
 
 <a href="https://github.com/sosan">
-  <img align="center" src="https://github-readme-stats-f0ercr4xm.vercel.app/api?username=sosan&show_icons=true&theme=monokai" alt="github stats" />
+  <img align="center" src="https://github-readme-stats-flame.vercel.app/api?username=sosan&show_icons=true&theme=monokai" alt="github stats" />
 </a>
 
 <a href="https://github.com/sosan">
-  <img align="center" src="https://github-readme-stats-f0ercr4xm.vercel.app/api/top-langs/?username=sosan&show_icons=true&theme=monokai" alt="github top languages stats" />
+  <img align="center" src="https://github-readme-stats-flame.vercel.app/api/top-langs/?username=sosan&show_icons=true&theme=monokai" alt="github top languages stats" />
 </a>
 
 
