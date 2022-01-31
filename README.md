@@ -56,7 +56,7 @@ Certificate with Honor Redis Streams
 Certificate with Honor Redis for Java Developers
 </a>
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="512">
 
 <a href="https://github.com/sosan">
   <img align="center" src="https://github-readme-stats-flame.vercel.app/api?username=sosan&show_icons=true&theme=monokai" alt="github stats" />
