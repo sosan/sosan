@@ -34,6 +34,12 @@ Hi, My name is Jose Luis, I'm from Mallorca(Spain). I'm game developer.<br>
 ![Nodejs](https://raw.githubusercontent.com/sosan/sosan/master/assets/nodejs.svg)
 ![Graphql](https://raw.githubusercontent.com/sosan/sosan/master/assets/graphql.svg)
 ![Mysql](https://raw.githubusercontent.com/sosan/sosan/master/assets/mysql.svg)
+![CockrouchDB](https://raw.githubusercontent.com/sosan/sosan/master/assets/cockrouchdb.svg)
+![Postgres](https://raw.githubusercontent.com/sosan/sosan/master/assets/postgres.svg)
+![ScyllaDB](https://raw.githubusercontent.com/sosan/sosan/master/assets/scylladb.svg)
+![Cassandra](https://raw.githubusercontent.com/sosan/sosan/master/assets/cassandra.svg)
+![ClickHouse](https://raw.githubusercontent.com/sosan/sosan/master/assets/clickhouse.svg)
+![DuckDB](https://raw.githubusercontent.com/sosan/sosan/master/assets/duckdb.svg)
 ![Redis](https://raw.githubusercontent.com/sosan/sosan/master/assets/redis.svg)
 ![Mongodb](https://raw.githubusercontent.com/sosan/sosan/master/assets/mongodb.svg)
 
