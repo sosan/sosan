@@ -51,7 +51,7 @@ Hi, My name is Jose Luis, I'm from Mallorca(Spain). I'm game developer.<br>
 |                           |      |  Unity            |![Unity](https://raw.githubusercontent.com/sosan/sosan/master/assets/unity.svg)      |
 | | | Vault Hashicorp  |![Vault](https://raw.githubusercontent.com/sosan/sosan/master/assets/vault.svg) |
 | | | K6               |![K6](https://raw.githubusercontent.com/sosan/sosan/master/assets/k6.svg) |
-| | | K3S / K0S |
+| | | K3S / K0S |![K3S](https://raw.githubusercontent.com/sosan/sosan/master/assets/k3s.svg)| 
 
 
 

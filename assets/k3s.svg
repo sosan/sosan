@@ -1,0 +1,18 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 181 34" width="181" height="34">
+	<title>iconos</title>
+	<defs>
+		<image  width="151" height="34" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJcAAAAiBAMAAACgtlaMAAAAAXNSR0IB2cksfwAAADBQTFRFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWj8cCwAAABB0Uk5T/+evWBAAx0hnjyCQz9BosIvjqnkAAABTSURBVHicY2CgDmBUdg0NoJJZQJBOTcMYW6loGEM6NQ3jXEBFw9g2UNEwxgNUNGwUjIJRMApGwcgFjBeoaBhVqzqqVsLUbB4wPh2cTSrGz8DGHgDS5AzPb0d9kgAAAABJRU5ErkJggg=="/>
+		<image aria-label="K3S"  width="33" height="14" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAOCAMAAACWwIW+AAAAAXNSR0IB2cksfwAAAEVQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////Up1zwgAAABd0Uk5TAMD/YIBQv9+PIDCgkPDg79AQQLDPr3AfVoFNAAAAwElEQVR4nIWRSxKEIAxEYzuIMPxB73/USQSscWU2dMEjdBqi11qwyLICK+teH95QGwu9m0lY4EvkFi4PKAYALzIMwkYBqDfzlpeEkIlKVZ3IEfUJEND+fOSGlJ8AVeCwN5GAc/Di7igscppGp//Bl3JWmUqG+bLRePmAVx4t3/M76GnKIwrBL/Ns7iZOgJsNGHnk4a4QTtWdBSrYSrdwZ5oQDcfW9l0LzO9Cb/pqPQjjsXFAfIAqt40LLNP6/m1EP7OoBomc+KeIAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		.s0 { fill: #1d94dc } 
+		.s1 { fill: #ffffff } 
+	</style>
+	<path id="Forma 3" class="s0" d="m0 8c0-4.4 3.6-8 8-8h21c4.4 0 8 3.6 8 8v18c0 4.4-3.6 8-8 8h-21c-4.4 0-8-3.6-8-8z"/>
+	<path id="guia" class="s0" d="m0 8c0-4.4 3.6-8 8-8h14c4.4 0 8 3.6 8 8v18c0 4.4-3.6 8-8 8h-14c-4.4 0-8-3.6-8-8z"/>
+	<use id="forma 13 hasta 10" href="#img1" x="30" y="0"/>
+	<g id="k3s">
+		<use id="k3s" href="#img2" x="39" y="10"/>
+		<path id="Layer copy" fill-rule="evenodd" class="s1" d="m25.5 7.7q0.4 0.2 0.8 0.5 0.3 0.4 0.5 0.8 0.2 0.5 0.2 1v13.9q0 0.5-0.2 1-0.2 0.4-0.5 0.7-0.4 0.4-0.8 0.6-0.5 0.2-0.9 0.2h-18.2q-0.4 0-0.9-0.2-0.4-0.2-0.8-0.6-0.3-0.3-0.5-0.7-0.2-0.5-0.2-1v-13.9q0-0.5 0.2-1 0.2-0.4 0.5-0.8 0.4-0.3 0.8-0.5 0.5-0.2 0.9-0.2h18.2q0.4 0 0.9 0.2zm-11.2 12.8c0-0.3 0-0.6-0.2-0.9-0.1-0.3-0.4-0.5-0.7-0.5-0.3-0.1-0.6-0.1-0.9 0.1l-4.4 2.5c-0.3 0.2-0.5 0.5-0.5 0.8-0.1 0.3-0.1 0.6 0.1 0.9 0.1 0.2 0.4 0.4 0.7 0.5 0.3 0.1 0.6 0.1 0.9-0.1l4.4-2.6c0.3-0.1 0.5-0.4 0.6-0.7zm1.6-3.3q0.2-0.1 0.4-0.2 0.2-0.2 0.3-0.4 0-0.2 0-0.5l0.1-5.1q0-0.2-0.1-0.4-0.1-0.2-0.3-0.4-0.1-0.2-0.4-0.3-0.2-0.1-0.4-0.1-0.3 0-0.5 0.1-0.2 0.1-0.4 0.3-0.1 0.2-0.2 0.4-0.1 0.2-0.1 0.4v5.1q0 0.3 0.1 0.5 0.1 0.2 0.2 0.4 0.2 0.1 0.4 0.2 0.2 0.1 0.5 0.1 0.2 0 0.4-0.1zm7.5 5.7q0.1-0.2 0-0.4-0.1-0.3-0.2-0.4-0.1-0.2-0.3-0.4l-4.5-2.5c-0.2-0.2-0.6-0.2-0.9-0.1-0.3 0-0.5 0.2-0.7 0.5-0.2 0.3-0.2 0.6-0.1 0.9 0.1 0.3 0.3 0.6 0.5 0.7l4.5 2.6q0.2 0.1 0.4 0.1 0.2 0.1 0.5 0 0.2 0 0.4-0.2 0.2-0.1 0.3-0.3 0.1-0.2 0.1-0.5z"/>
+	</g>
+</svg>
