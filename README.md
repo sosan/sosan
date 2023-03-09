@@ -42,7 +42,7 @@ Hi, My name is Jose Luis, I'm from Mallorca(Spain). I'm game developer.<br>
 |  MongoDB                  |![Mongodb](https://raw.githubusercontent.com/sosan/sosan/master/assets/mongodb.svg)      |  Grafana          |![Grafana](https://raw.githubusercontent.com/sosan/sosan/master/assets/grafana.svg)      |
 |  Mysql                    |![Mysql](https://raw.githubusercontent.com/sosan/sosan/master/assets/mysql.svg)      |  Redpanda         |![Redpanda](https://raw.githubusercontent.com/sosan/sosan/master/assets/redpanda.svg) |
 |  Redis (Certificated)     |![Redis](https://raw.githubusercontent.com/sosan/sosan/master/assets/redis.svg)      |  Docker           |![Docker](https://raw.githubusercontent.com/sosan/sosan/master/assets/docker.svg)      |
-|  KeyDB  |    |  ArgoCD           |![ArgoCD](https://raw.githubusercontent.com/sosan/sosan/master/assets/argocd.svg)      |
+|  KeyDB  |![KeyDB](https://raw.githubusercontent.com/sosan/sosan/master/assets/keydb.svg)    |  ArgoCD           |![ArgoCD](https://raw.githubusercontent.com/sosan/sosan/master/assets/argocd.svg)      |
 |                           |      |  Jenkins          |![Jenkins](https://raw.githubusercontent.com/sosan/sosan/master/assets/jenkins.svg)      |
 | | | Istio            |![Istio](https://raw.githubusercontent.com/sosan/sosan/master/assets/istio.svg) |
 | | | Loki             |![Loki](https://raw.githubusercontent.com/sosan/sosan/master/assets/loki.svg) |
