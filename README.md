@@ -40,11 +40,11 @@ Hi, My name is Jose Luis, I'm from Mallorca(Spain). I'm game developer.<br>
 |                           |      |                   |      |
 |  Postgres/CockroachDB     |![Postgres](https://raw.githubusercontent.com/sosan/sosan/master/assets/postgres.svg)![CockrouchDB](https://raw.githubusercontent.com/sosan/sosan/master/assets/cockroachdb.svg)      |  Docker           |![Docker](https://raw.githubusercontent.com/sosan/sosan/master/assets/docker.svg)      |
 |  Redis (Certificated)     |![Redis](https://raw.githubusercontent.com/sosan/sosan/master/assets/redis.svg)      |  K3S/K0S          |      |
-|  KeyDB                    |      |  Envoy            |      |
+|  KeyDB                    |      |  Envoy            |![Envoy](https://raw.githubusercontent.com/sosan/sosan/master/assets/envoy.svg)      |
 |  ScyllaDB (Certificated)  |![ScyllaDB](https://raw.githubusercontent.com/sosan/sosan/master/assets/scylladb.svg)      |  Istio            |![Istio](https://raw.githubusercontent.com/sosan/sosan/master/assets/istio.svg)      |
-|  Clickhouse               |![ClickHouse](https://raw.githubusercontent.com/sosan/sosan/master/assets/clickhouse.svg)      |  Github Actions   |      |
-|  MongoDB                  |![Mongodb](https://raw.githubusercontent.com/sosan/sosan/master/assets/mongodb.svg)      |  Redpanda         |      |
-|  Mysql                    |![Mysql](https://raw.githubusercontent.com/sosan/sosan/master/assets/mysql.svg)      |  Opentelemetry    |      |
+|  Clickhouse               |![ClickHouse](https://raw.githubusercontent.com/sosan/sosan/master/assets/clickhouse.svg)      |  Github Actions   |![Github Actions](https://raw.githubusercontent.com/sosan/sosan/master/assets/githubactions.svg)      |
+|  MongoDB                  |![Mongodb](https://raw.githubusercontent.com/sosan/sosan/master/assets/mongodb.svg)      |  Redpanda         |![Redpanda](https://raw.githubusercontent.com/sosan/sosan/master/assets/redpanda.svg)      |
+|  Mysql                    |![Mysql](https://raw.githubusercontent.com/sosan/sosan/master/assets/mysql.svg)      |  Opentelemetry    |![Opentelemetry](https://raw.githubusercontent.com/sosan/sosan/master/assets/opentelemetry.svg)      |
 |                           |      |  Grafana          |![Grafana](https://raw.githubusercontent.com/sosan/sosan/master/assets/grafana.svg)      |
 |                           |      |  Loki             |![Loki](https://raw.githubusercontent.com/sosan/sosan/master/assets/loki.svg)      |
 |                           |      |  Tempo            |![Tempo](https://raw.githubusercontent.com/sosan/sosan/master/assets/tempo.svg)      |
