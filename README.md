@@ -39,7 +39,7 @@ Hi, My name is Jose Luis, I'm from Mallorca(Spain). I'm game developer.<br>
 |  **Databases**            |      |  **Other**        |      |
 |                           |      |                   |      |
 |  Postgres/CockroachDB     |![Postgres](https://raw.githubusercontent.com/sosan/sosan/master/assets/postgres.svg)![CockrouchDB](https://raw.githubusercontent.com/sosan/sosan/master/assets/cockrouchdb.svg)      |  Docker           |![Docker](https://raw.githubusercontent.com/sosan/sosan/master/assets/docker.svg)      |
-|  Redis (Certificated)     |![Redis](https://raw.githubusercontent.com/sosan/sosan/master/assets/redis.svg)      |  K8S/K3S/K0S      |      |
+|  Redis (Certificated)     |![Redis](https://raw.githubusercontent.com/sosan/sosan/master/assets/redis.svg)      |  K3S/K0S          |      |
 |  KeyDB                    |      |  Envoy            |      |
 |  ScyllaDB (Certificated)  |![ScyllaDB](https://raw.githubusercontent.com/sosan/sosan/master/assets/scylladb.svg)      |  Git              |      |
 |  Clickhouse               |![ClickHouse](https://raw.githubusercontent.com/sosan/sosan/master/assets/clickhouse.svg)      |  Github Actions   |      |

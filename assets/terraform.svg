@@ -1,0 +1,18 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 145 34" width="145" height="34">
+	<title>Proyecto nuevo</title>
+	<defs>
+		<image width="114" height="34" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHIAAAAiCAYAAACDU42KAAAAAXNSR0IArs4c6QAAAN5JREFUaEPt28EJg2AQROGxlHSgnSWdaEeWoB2kk4QVBMUK9vE8BU87+zGag/+Q5BevLhvYkqxJliTf69CDkF0MH3POST7nXSHbOh6DV0On+iFkb8iavh6zbyH7Q1aCl5AMyEVIBuQmJAPSPzsQRyGFpGwAksN3pJCQDUBi2EghIRuAxLCRQkI2AIlhI4WEbAASw0YKCdkAJIaNFBKyAUgMGykkZAOQGDZSSMgGIDFsJANyF5IB6eeQDEc/UCY4emQAoLgnGSuH78i+mkcTz/GF7AVZDayDrnU28nbQ9Q8bATEOIJYjTAAAAABJRU5ErkJggg=="/>
+		<image aria-label="Terraform"  width="87" height="14" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFcAAAAOCAMAAABtl3BhAAAAAXNSR0IB2cksfwAAAFFQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////CDfnXgAAABt0Uk5TABBvv69Q/9CAwDBA33B/z5Bg748goODwsD+fu2Q3lgAAAUxJREFUeJy1k91yhCAMhaFo+HNRqatu3/9BexJWV51xhl40F8IcTz5CjEr9LfSXadoqJ+1R47bwuSqu9x5mi6XC3BIFpau4iEgU65yu7lYXbtvhlk0Q4dFBw2LI6cR6D8uAjTFBRcNCWw4aO+IETs6j/s6wTCcuPE9nKWsWiHyQ3tsx0jy4mfKkhhmyD+iGdR6HSg4tXhJmvwBJFl3tj9xJjGrGE8KCssFd+EDe6g2D/UIrngPRxILVQsASaDOFA/dB9EL8IAnCqIQ78KJfKaXMcyDcWPLkJMdwkbgrnmYuY/tcheu2efN7w4s75qIfuKq8dduHjAXvyZcX8VxvlAgHbpTOPBVP7k29b4K6405l4mOrLlypOnzqxUFN6a+u4bKnSQ3f6MxdKScen52LeeiTkW9Qw1Ut/6VruNarV5Y/fUDxrNj3/N5z/yF+AcuEEoJfn6tbAAAAAElFTkSuQmCC"/>
+		<image width="24" height="24" id="img3" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTIxIDUuNFYxMS44TDE1LjQgMTVWOC43TDIxIDUuNFpNMTQuOCA4LjdWMTVMOS4yIDExLjhWNS40TDE0LjggOC43Wk0xNC44IDE1LjdWMjIuMUw5LjIgMTguOVYxMi41TDE0LjggMTUuN1pNOC42IDUuMVYxMS41TDMgOC4zVjEuOUw4LjYgNS4xWiIgZmlsbD0iI0Y4RjhGOCIvPgo8L3N2Zz4K"/>
+	</defs>
+	<style>
+		.s0 { fill: #1d94dc } 
+	</style>
+	<path id="Forma 3" class="s0" d="m0 8c0-4.4 3.6-8 8-8h21c4.4 0 8 3.6 8 8v18c0 4.4-3.6 8-8 8h-21c-4.4 0-8-3.6-8-8z"/>
+	<path id="guia" class="s0" d="m0 8c0-4.4 3.6-8 8-8h14c4.4 0 8 3.6 8 8v18c0 4.4-3.6 8-8 8h-14c-4.4 0-8-3.6-8-8z"/>
+	<use id="Forma 4" href="#img1" transform="matrix(1,0,0,1,30.5,0)"/>
+	<g id="terraform - 9">
+		<use id="Prometheus" href="#img2" x="37" y="10"/>
+		<use id="Vector" href="#img3" transform="matrix(1,0,0,1,3,5)"/>
+	</g>
+</svg>
