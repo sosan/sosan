@@ -1,0 +1,18 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 103 34" width="103" height="34">
+	<title>Proyecto nuevo</title>
+	<defs>
+		<image  width="73" height="34" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEkAAAAiBAMAAADhbul2AAAAAXNSR0IB2cksfwAAADBQTFRFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWj8cCwAAABB0Uk5T/+evWBAAx0hnjyCQz9BosIvjqnkAAABLSURBVHicY2AgABiVXUMDCCkCgnSiVDG2EqOKIZ0oVZwLiFHFtoEYVYwHiFE1CkbBSASMF4hRRVxOIy7XElUCMD6lVsnE+BlYygEAlLIMzy+6yp8AAAAASUVORK5CYII="/>
+		<image aria-label="Vault"  width="47" height="13" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC8AAAANCAMAAAAOncejAAAAAXNSR0IB2cksfwAAAEhQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////53h4sAAAABh0Uk5TACB/EPD/oNDAQD8w72CAkLDfv3BQ4J/P5a0zigAAAM5JREFUeJyF0O0WgyAIBmBS39LZl6V1/3c6oLbaWWv+MPQ8EkD0f1XGHAfrUG9RA3/tAyCvHlFPNdotC9Dd+X5PF3c3wP2o59NzHaN8HHqyJgGYoprAl16Q+iGhnSbJPAMVUZY9o/R9QbIXvsB5L94CM9GofwlbI+HbH/Vwx0keZR2CMQZc2Z3nc5xROOpa6Lr3VFA3bIjw3ndfLv2MVnu2ioJ4nvIi5uzXl2e3zbRBMovWwyHWFSfPY5xSfnWs3VL0LGr11Qi44VQ/yUV+ApKuCc7w+/pmAAAAAElFTkSuQmCC"/>
+		<image width="24" height="24" id="img3" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTAgMEwxMS45NTUgMjRMMjQgMEgwWk0xMy4zNjYgNC44MjdIMTQuNzU5VjYuMjA3SDEzLjM2NlY0LjgyN1pNMTAuNTk2IDEwLjM5Nkg5LjIyVjguOTkzSDEwLjYwOUwxMC41OTYgMTAuMzk2Wk0xMC41OTYgOC4zMDlIOS4yMlY2LjkwNkgxMC42MDlMMTAuNTk2IDguMzA5Wk0xMC41OTYgNi4yMjNIOS4yMlY0LjgxOUgxMC42MDlMMTAuNTk2IDYuMjIzWk0xMi42ODMgMTIuNDg2SDExLjMwNlYxMS4wOEgxMi42OTRMMTIuNjgzIDEyLjQ4NlpNMTIuNjgzIDEwLjM5NkgxMS4zMDZWOC45OTNIMTIuNjk0TDEyLjY4MyAxMC4zOTZaTTEyLjY4MyA4LjMwOUgxMS4zMDZWNi45MDZIMTIuNjk0TDEyLjY4MyA4LjMwOVpNMTIuNjgzIDYuMjIzSDExLjMwNlY0LjgxOUgxMi42OTRMMTIuNjgzIDYuMjIzWk0xMy4zNjYgNi45MDZIMTQuNzU5VjguMjk1SDEzLjM2NlY2LjkwNlpNMTMuMzY2IDEwLjM4MVY4Ljk5M0gxNC43NTVWMTAuMzgxSDEzLjM2NloiIGZpbGw9IiNGOEY4RjgiLz4KPC9zdmc+Cg=="/>
+	</defs>
+	<style>
+		.s0 { fill: #1d94dc } 
+	</style>
+	<path id="Forma 3" class="s0" d="m0 8c0-4.4 3.6-8 8-8h21c4.4 0 8 3.6 8 8v18c0 4.4-3.6 8-8 8h-21c-4.4 0-8-3.6-8-8z"/>
+	<path id="guia" class="s0" d="m0 8c0-4.4 3.6-8 8-8h14c4.4 0 8 3.6 8 8v18c0 4.4-3.6 8-8 8h-14c-4.4 0-8-3.6-8-8z"/>
+	<use id="forma 5 hasta 2" href="#img1" x="30" y="0"/>
+	<g id="vault">
+		<use id="vault" href="#img2" x="37" y="10"/>
+		<use id="vault" href="#img3" transform="matrix(1,0,0,1,3,5)"/>
+	</g>
+</svg>

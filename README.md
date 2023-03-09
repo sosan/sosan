@@ -38,23 +38,23 @@ Hi, My name is Jose Luis, I'm from Mallorca(Spain). I'm game developer.<br>
 |                           |      |                   |      |
 |  **Databases**            |      |  **Other**        |      |
 |                           |      |                   |      |
-|  Postgres/CockroachDB     |![Postgres](https://raw.githubusercontent.com/sosan/sosan/master/assets/postgres.svg)![CockrouchDB](https://raw.githubusercontent.com/sosan/sosan/master/assets/cockrouchdb.svg)      |  Docker           |![Docker](https://raw.githubusercontent.com/sosan/sosan/master/assets/docker.svg)      |
+|  Postgres/CockroachDB     |![Postgres](https://raw.githubusercontent.com/sosan/sosan/master/assets/postgres.svg)![CockrouchDB](https://raw.githubusercontent.com/sosan/sosan/master/assets/cockroachdb.svg)      |  Docker           |![Docker](https://raw.githubusercontent.com/sosan/sosan/master/assets/docker.svg)      |
 |  Redis (Certificated)     |![Redis](https://raw.githubusercontent.com/sosan/sosan/master/assets/redis.svg)      |  K3S/K0S          |      |
 |  KeyDB                    |      |  Envoy            |      |
-|  ScyllaDB (Certificated)  |![ScyllaDB](https://raw.githubusercontent.com/sosan/sosan/master/assets/scylladb.svg)      |  Git              |      |
+|  ScyllaDB (Certificated)  |![ScyllaDB](https://raw.githubusercontent.com/sosan/sosan/master/assets/scylladb.svg)      |  Istio            |![Istio](https://raw.githubusercontent.com/sosan/sosan/master/assets/istio.svg)      |
 |  Clickhouse               |![ClickHouse](https://raw.githubusercontent.com/sosan/sosan/master/assets/clickhouse.svg)      |  Github Actions   |      |
 |  MongoDB                  |![Mongodb](https://raw.githubusercontent.com/sosan/sosan/master/assets/mongodb.svg)      |  Redpanda         |      |
 |  Mysql                    |![Mysql](https://raw.githubusercontent.com/sosan/sosan/master/assets/mysql.svg)      |  Opentelemetry    |      |
-|                           |      |  Grafana          |![Mysql](https://raw.githubusercontent.com/sosan/sosan/master/assets/grafana.svg)      |
-|                           |      |  Loki             |![Mysql](https://raw.githubusercontent.com/sosan/sosan/master/assets/loki.svg)      |
-|                           |      |  Tempo            |![Mysql](https://raw.githubusercontent.com/sosan/sosan/master/assets/tempo.svg)      |
-|                           |      |  Prometheus       |![Mysql](https://raw.githubusercontent.com/sosan/sosan/master/assets/prometheus.svg)      |
-|                           |      |  Terraform        |![Mysql](https://raw.githubusercontent.com/sosan/sosan/master/assets/terraform.svg)      |
-|                           |      |  Vault Hashicorp  |![Mysql](https://raw.githubusercontent.com/sosan/sosan/master/assets/vault.svg)      |
-|                           |      |  K6               |![Mysql](https://raw.githubusercontent.com/sosan/sosan/master/assets/k6.svg)      |
-|                           |      |  ArgoCD           |![Mysql](https://raw.githubusercontent.com/sosan/sosan/master/assets/argocd.svg)      |
-|                           |      |  Jenkins          |![Mysql](https://raw.githubusercontent.com/sosan/sosan/master/assets/jenkins.svg)      |
-|                           |      |  Unity            |![UNITY](https://raw.githubusercontent.com/sosan/sosan/master/assets/unity.svg)      |
+|                           |      |  Grafana          |![Grafana](https://raw.githubusercontent.com/sosan/sosan/master/assets/grafana.svg)      |
+|                           |      |  Loki             |![Loki](https://raw.githubusercontent.com/sosan/sosan/master/assets/loki.svg)      |
+|                           |      |  Tempo            |![Tempo](https://raw.githubusercontent.com/sosan/sosan/master/assets/tempo.svg)      |
+|                           |      |  Prometheus       |![Prometheus](https://raw.githubusercontent.com/sosan/sosan/master/assets/prometheus.svg)      |
+|                           |      |  Terraform        |![Terraform](https://raw.githubusercontent.com/sosan/sosan/master/assets/terraform.svg)      |
+|                           |      |  Vault Hashicorp  |![Vault](https://raw.githubusercontent.com/sosan/sosan/master/assets/vault.svg)      |
+|                           |      |  K6               |![K6](https://raw.githubusercontent.com/sosan/sosan/master/assets/k6.svg)      |
+|                           |      |  ArgoCD           |![ArgoCD](https://raw.githubusercontent.com/sosan/sosan/master/assets/argocd.svg)      |
+|                           |      |  Jenkins          |![Jenkins](https://raw.githubusercontent.com/sosan/sosan/master/assets/jenkins.svg)      |
+|                           |      |  Unity            |![Unity](https://raw.githubusercontent.com/sosan/sosan/master/assets/unity.svg)      |
 
 
 
