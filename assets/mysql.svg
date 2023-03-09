@@ -1,7 +1,7 @@
-<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 103 34" width="103" height="34">
-	<title>Proyecto nuevo</title>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 181 34" width="181" height="34">
+	<title>iconos</title>
 	<defs>
-		<image  width="73" height="34" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEkAAAAiBAMAAADhbul2AAAAAXNSR0IB2cksfwAAADBQTFRFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWj8cCwAAABB0Uk5T/+evWBAAx0hnjyCQz9BosIvjqnkAAABLSURBVHicY2AgABiVXUMDCCkCgnSiVDG2EqOKIZ0oVZwLiFHFtoEYVYwHiFE1CkbBSASMF4hRRVxOIy7XElUCMD6lVsnE+BlYygEAlLIMzy+6yp8AAAAASUVORK5CYII="/>
+		<image  width="151" height="34" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJcAAAAiBAMAAACgtlaMAAAAAXNSR0IB2cksfwAAADBQTFRFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWj8cCwAAABB0Uk5T/+evWBAAx0hnjyCQz9BosIvjqnkAAABTSURBVHicY2CgDmBUdg0NoJJZQJBOTcMYW6loGEM6NQ3jXEBFw9g2UNEwxgNUNGwUjIJRMApGwcgFjBeoaBhVqzqqVsLUbB4wPh2cTSrGz8DGHgDS5AzPb0d9kgAAAABJRU5ErkJggg=="/>
 		<image aria-label="Mysql"  width="49" height="17" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADEAAAARCAMAAABD7rQYAAAAAXNSR0IB2cksfwAAAEtQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////g5kLBwAAABl0Uk5TACB/wP9gQN/goM/QkIDvnxBQ8DC/b4+wr5ov7YEAAAEGSURBVHiclZFbdsMgDEQFCLBLcHi4cfe/0o6Ek+M27mmiH1uCqxkJorfCWEuO2Y/MM7v/iMAsRBzZ9DoxRCDxOhF3CRAzf0iS+EJ5QeVaiGpkXqzjfCdSExHPLYFAqRN1ZoNCzqkVEZ+yNH4QLovIxKg66T4TXfCXVQ0STc3mI1Eggo5FCc+L4F5ar59GLwUxeiTAx4hcCcErN+na4OSmlyTckcAtSAwCjtYZc+tmNuzxVGM3OQiDxTDc9KALzJhj/T0HrDhX7gRt410mXu1N+les3678k6Ddqf7W8aR9g9epSgFP1fJjjufwOvdTKHES/csu50d/ETP8pvIOQaGG84MejH6/ATF9CpqN4yTfAAAAAElFTkSuQmCC"/>
 		<image width="24" height="24" id="img3" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEzIDIxQzExLjU3MyAxOS45NzQgOS40MSAxNy4xNDYgOSAxNUM4LjUxNCAxNS43NyA3LjQ5OSAxNyA3IDE3QzUuNTAxIDE2LjExMiA2LjQyNiAxMy4wMjcgNyAxMUM1LjQwNCA5LjU2NyA0LjUzMiA4LjU0MiA0LjUgN0MxLjE1IDMuNTYgNC4wNTYgMS43MyA3IDRIOEMxNi40ODIgNC41IDE0LjQyMSAxMi4wNyAxNyAxNS41QzE5LjI5NSAxNi4wMjIgMjAuNjY1IDE3Ljc1NCAyMiAxOUMxOS45MTQgMTguOCAxOS4yMTYgMTguNjU2IDE4LjUgMTlDMTguOTc4IDIwLjY0IDIwLjYyMyAyMS4yIDIyIDIyTTkgN0g5LjAxIiBzdHJva2U9IiNGOEY4RjgiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPgo="/>
 	</defs>
@@ -10,7 +10,7 @@
 	</style>
 	<path id="Forma 3" class="s0" d="m0 8c0-4.4 3.6-8 8-8h21c4.4 0 8 3.6 8 8v18c0 4.4-3.6 8-8 8h-21c-4.4 0-8-3.6-8-8z"/>
 	<path id="guia" class="s0" d="m0 8c0-4.4 3.6-8 8-8h14c4.4 0 8 3.6 8 8v18c0 4.4-3.6 8-8 8h-14c-4.4 0-8-3.6-8-8z"/>
-	<use id="forma 5 hasta 2" href="#img1" x="30" y="0"/>
+	<use id="forma 13 hasta 10" href="#img1" x="30" y="0"/>
 	<g id="mysql - 5">
 		<use id="mysql" href="#img2" x="39" y="10"/>
 		<use id="mysql" href="#img3" transform="matrix(1,0,0,1,3,5)"/>

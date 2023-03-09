@@ -1,7 +1,7 @@
-<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 103 34" width="103" height="34">
-	<title>Proyecto nuevo</title>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 181 34" width="181" height="34">
+	<title>iconos</title>
 	<defs>
-		<image  width="73" height="34" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEkAAAAiBAMAAADhbul2AAAAAXNSR0IB2cksfwAAADBQTFRFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWj8cCwAAABB0Uk5T/+evWBAAx0hnjyCQz9BosIvjqnkAAABLSURBVHicY2AgABiVXUMDCCkCgnSiVDG2EqOKIZ0oVZwLiFHFtoEYVYwHiFE1CkbBSASMF4hRRVxOIy7XElUCMD6lVsnE+BlYygEAlLIMzy+6yp8AAAAASUVORK5CYII="/>
+		<image  width="151" height="34" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJcAAAAiBAMAAACgtlaMAAAAAXNSR0IB2cksfwAAADBQTFRFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWj8cCwAAABB0Uk5T/+evWBAAx0hnjyCQz9BosIvjqnkAAABTSURBVHicY2CgDmBUdg0NoJJZQJBOTcMYW6loGEM6NQ3jXEBFw9g2UNEwxgNUNGwUjIJRMApGwcgFjBeoaBhVqzqqVsLUbB4wPh2cTSrGz8DGHgDS5AzPb0d9kgAAAABJRU5ErkJggg=="/>
 		<image width="22" height="20" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAUCAYAAACJfM0wAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAItSURBVHgBlVTtUcJAEE0CDDD8IFYgdIAViBWAFYAd0IFSAVCBQwVABWAFwQoCFSQ/+B4gvhf38DiDyM3sZLPf+3bvbCvhrNfrquM4Ddu2w8Ph0Mvn8zNTn0qlauST9NaFoKXNZhOBAvmSOtRFUeSS1/SxDRNdDbxarbrb7TZgAqE3OkPmkSRol0mCIHAlePdqYBiNSUYXTVU9ecPeQzFDM45jCogrPq4hqyXxf520KcAw5hhMlTBggBW0/AhxHQGn4GlS3+12HdiNQCyCdh+/CtR/OAQEeAVbtW47Q/j1s9nsCZIYisViUeFgoCS2FcpQHatgRTPw5VwuZ5OQ/E7JYa8CsbMB8PbZaRyYTDqd9jhl0BOc6TiBEyGgrI2WOf0xk2cyGTq2CQF01ePxOIJPGfxLDIFt+yzUgnGciYF1SGQLfP5z8tpOj3XZcrmsKz+1ftwSR7KcbQGqcEUeiijU1K7+xeBOOtd1f2xZtqpO7ah0oW5eS25jvN9yaZpmB9KlL7teUq2XlFD7xhDxFhowlZRckp2uP2cQ42sZ60a8sMMNsHXrtjPhkPEYTZTg7OYVCoUh8J0T2/1+/8AtwX/P+sZ7ShLTHjblmWsomH7qQROP4OvpMoFFYTowdP97K5IOKhsl8XJCbEbR9Ln4VqiBoQNe8ZZ6K/B9h+weEPXFhcPqW9eOdjkCbeW6KhHfaw2W4Gy9tGMnBcfrVUFFTWl9aA6GgVA5uyiy8qTBfQHDcWVm67HwLAAAAABJRU5ErkJggg=="/>
 		<image aria-label="React"  width="50" height="12" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAMCAMAAAAXkR5eAAAAAXNSR0IB2cksfwAAAFRQTFRF////////////////////////AAAA////////////////////////////////////////////////////////////////////////////////////nPhdfAAAABx0Uk5TwP/vv68wAD/w0GAQoEB/IJ/fUM/ggJBwX4+wT2VabTIAAAD2SURBVHiclVLRboMwDPSFxqQ4BGgJXbf//8+dQ5kmpKmaH4h9ytl3DiJghO4S9X3E3m+JIIlcSRveUwSyU/ywjGD/o6gBI78lUGVhPc3MMHsbm5ktxVQCHXTxoChwU7tjrVvCplohnnVkBKQtJ1SV5CZ+KDcg6gOJbSMwqbnRATDNSBOJw29h977/eAZ8OnTpGYtrnL5KmV1tG3ryskc2h14xUtiRgZLOlLXWrZl3aGxhsQHjX1P8yFg45YHQLJhfbjUpuYFW7PwurZddEZ5lQfa6cyuk2EqQK8/eGN0yHRt77O9SE7hSXxt/iCQ7yA1TPUEjsMZvCCkPFkya9X8AAAAASUVORK5CYII="/>
 	</defs>
@@ -10,7 +10,7 @@
 	</style>
 	<path id="Forma 3" class="s0" d="m0 8c0-4.4 3.6-8 8-8h21c4.4 0 8 3.6 8 8v18c0 4.4-3.6 8-8 8h-21c-4.4 0-8-3.6-8-8z"/>
 	<path id="guia" class="s0" d="m0 8c0-4.4 3.6-8 8-8h14c4.4 0 8 3.6 8 8v18c0 4.4-3.6 8-8 8h-14c-4.4 0-8-3.6-8-8z"/>
-	<use id="forma 5 hasta 2" href="#img1" x="30" y="0"/>
+	<use id="forma 13 hasta 10" href="#img1" x="30" y="0"/>
 	<g id="react - 5">
 		<use id="react" href="#img2" transform="matrix(1,0,0,1,5,7)"/>
 		<use id="Python copy" href="#img3" x="39" y="11"/>

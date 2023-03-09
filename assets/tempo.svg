@@ -1,16 +1,16 @@
-<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 103 34" width="103" height="34">
-	<title>Proyecto nuevo</title>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 181 34" width="181" height="34">
+	<title>iconos</title>
 	<defs>
-		<image  width="73" height="34" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEkAAAAiBAMAAADhbul2AAAAAXNSR0IB2cksfwAAADBQTFRFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWj8cCwAAABB0Uk5T/+evWBAAx0hnjyCQz9BosIvjqnkAAABLSURBVHicY2AgABiVXUMDCCkCgnSiVDG2EqOKIZ0oVZwLiFHFtoEYVYwHiFE1CkbBSASMF4hRRVxOIy7XElUCMD6lVsnE+BlYygEAlLIMzy+6yp8AAAAASUVORK5CYII="/>
+		<image  width="151" height="34" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJcAAAAiBAMAAACgtlaMAAAAAXNSR0IB2cksfwAAADBQTFRFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWj8cCwAAABB0Uk5T/+evWBAAx0hnjyCQz9BosIvjqnkAAABTSURBVHicY2CgDmBUdg0NoJJZQJBOTcMYW6loGEM6NQ3jXEBFw9g2UNEwxgNUNGwUjIJRMApGwcgFjBeoaBhVqzqqVsLUbB4wPh2cTSrGz8DGHgDS5AzPb0d9kgAAAABJRU5ErkJggg=="/>
 		<image aria-label="Tempo"  width="62" height="16" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAAAQCAMAAAB5uTwwAAAAAXNSR0IB2cksfwAAAFFQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////CDfnXgAAABt0Uk5TAP/A0EBQ368wgM/vb5C/oBB/n+DwIHBgP7CPfZFAlQAAAP5JREFUeJzFkVFzgyAQhG8Bo4QSiJ5p7f//oV2oRu2YmYwvvQc9Fz7OZUXwLDlTxhgLWL5O4SwHuLPsBm8utNB2VfBXIHxIDMCNCj2mW1nN7POdaujzHvfc4i1CLgIGoyRh6exScWiMWlbFQtPcrvgIPPgx8ElhyJLJ+3qqK7jyJzpFlE+A7ahIW/wBfLF6TEVoqBuo1GMrXjcnXClPpY0IW9wvAZrFjUFNY8a9/Bqk/Gz3012t7hifp9t1uv7xXk51jRzjoXjH6j3svZe/ae8tMB7jjKoP0Hrzof8OsLubZ+4MCVP3YnqcuJoq4gcGkZbc36n56s7W/+LOjQfqD05wCXhvsBvuAAAAAElFTkSuQmCC"/>
-		<image  width="26" height="21" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAVCAMAAABvwg4pAAAAAXNSR0IB2cksfwAAAOdQTFRFAAAALSIQCggDBgUCDwsFHBYKUz8cDQoFAAAAAgIBLyMQEAsFHxcKIxkLFRAHNigSFA8GGxQJRTUYEw4HEw8HPC0UOSoSJBoLIBcKKh8ORjUXKR8OIBgLIhoMRDMXIBgLVkIeXUcgXUghUD0cNykSFRAHGBIIMCUQAwIBjGguOSsTPC0UoXg1AQEAHRYJLCAOPS0UOCoTDAkEGBIIGxUKFA8HNScRLiQQDgoEzJtEVUEdPTAWTjwbDgsFBwUCKyAOHxgLBAMCMyYRLSEPBwUCIhkLiGUsDAkEHBQJGxQJLSIPBgUCGRMID9XL3QAAAE10Uk5TAI7///qZD8z//1yjj4WyW+HCk7fHXCtHZmYemcymaMJCW5diH+HRdf8ZPUgX/2szSCb/mVtwWctSAkxMFNbWFD3/RyTwaw/bnsdH9Y9hSWOVAAAAo0lEQVR4nG3RxRLDMAxFUZVTbsqQMkPKzMz//z21la6Sd3eeM5Y8YyKy2R3WnC43EXkUlNcnyA9JCQgKYgoJCmOKkBqNYYpTIplKozJZ+pfT8gVNViyRqXKlWqvzoIaZZE2mVhtQx9jfBdTTmfoWGAxHY6aJhaaz+YJbgoGr9Ua2RU/c8cD9AdDxxN9xBnS58rUboPuD6YmWqUwvRO+PEP1rHH6EvxVffPllewAAAABJRU5ErkJggg=="/>
+		<image  width="26" height="21" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAVCAMAAABvwg4pAAAAAXNSR0IB2cksfwAAAJZQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wCXFqAAAADJ0Uk5TAI7/+pkPzFyjj4WyW+HCk7fHK0dmHqZoQpdiH9F1GT1IF2szJnBZy1ICTBTWJPDbnvUT2otHAAAAlElEQVR4nHXR1xLCIBCF4SMmxEKwYG+JvcX2/i8nAbxJjv/tN7O7AwAagtSMYgCSkRCJpRantqUOp64lxSmF7vU5DZAMzYg2RiiSk6ks0zNUUvPFMnWDVlUqW/slG0KZp5zQ1tOuBvv84CmqkTqezq4LGXi9ue7sxMINLJiFEw2hx/PPiUD8cvRmy3R4c5L5/P7X9gWPzQrsGD14xAAAAABJRU5ErkJggg=="/>
 	</defs>
 	<style>
 		.s0 { fill: #1d94dc } 
 	</style>
 	<path id="Forma 3" class="s0" d="m0 8c0-4.4 3.6-8 8-8h21c4.4 0 8 3.6 8 8v18c0 4.4-3.6 8-8 8h-21c-4.4 0-8-3.6-8-8z"/>
 	<path id="guia" class="s0" d="m0 8c0-4.4 3.6-8 8-8h14c4.4 0 8 3.6 8 8v18c0 4.4-3.6 8-8 8h-14c-4.4 0-8-3.6-8-8z"/>
-	<use id="forma 5 hasta 2" href="#img1" x="30" y="0"/>
+	<use id="forma 13 hasta 10" href="#img1" x="30" y="0"/>
 	<g id="tempo - 5">
 		<use id="tempo" href="#img2" x="37" y="11"/>
 		<use id="Capa 2" href="#img3" x="2" y="7"/>

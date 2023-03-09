@@ -28,33 +28,30 @@ Hi, My name is Jose Luis, I'm from Mallorca(Spain). I'm game developer.<br>
 
 | **Languages**             |      | **Frameworks**    |      |
 |---------------------------|------|-------------------|------|
-|  JavaScript/TypeScript    |![Typescript](https://raw.githubusercontent.com/sosan/sosan/master/assets/typescript.svg)      |  React / React Native           |![React](https://raw.githubusercontent.com/sosan/sosan/master/assets/react.svg)      |
-|  Golang                   |      |                   |      |
-|  Python                   |![Python](https://raw.githubusercontent.com/sosan/sosan/master/assets/python.svg)      |  Ionic            |      |
-|  C#                       |![C#](https://raw.githubusercontent.com/sosan/sosan/master/assets/csharp.svg)      |  NodeJS           |      |
-|                           |      |  Express / NodeJS |![Nodejs](https://raw.githubusercontent.com/sosan/sosan/master/assets/nodejs.svg)      |
-|                           |      |  Fiber            |      |
-|                           |      |                   |      |
+|  TypeScript    |![Typescript](https://raw.githubusercontent.com/sosan/sosan/master/assets/typescript.svg)      |  React / React Native           |![React](https://raw.githubusercontent.com/sosan/sosan/master/assets/react.svg)      |
+| JavaScript | ![Typescript](https://raw.githubusercontent.com/sosan/sosan/master/assets/typescript.svg) | Ionic               |![Ionic](https://raw.githubusercontent.com/sosan/sosan/master/assets/ionic.svg) |
+|  Golang                   |![Golang](https://raw.githubusercontent.com/sosan/sosan/master/assets/golang.svg)      | Fiber            |![Fiber](https://raw.githubusercontent.com/sosan/sosan/master/assets/fiber.svg)      |
+|  Python                   |![Python](https://raw.githubusercontent.com/sosan/sosan/master/assets/python.svg)      |  NodeJS           |![Nodejs](https://raw.githubusercontent.com/sosan/sosan/master/assets/nodejs.svg)      |
+|  C#                       |![C#](https://raw.githubusercontent.com/sosan/sosan/master/assets/csharp.svg)      |Express          |![Express](https://raw.githubusercontent.com/sosan/sosan/master/assets/nodejs.svg)        |
 |                           |      |                   |      |
 |  **Databases**            |      |  **Other**        |      |
-|                           |      |                   |      |
-|  Postgres/CockroachDB     |![Postgres](https://raw.githubusercontent.com/sosan/sosan/master/assets/postgres.svg)![CockrouchDB](https://raw.githubusercontent.com/sosan/sosan/master/assets/cockroachdb.svg)      |  Docker           |![Docker](https://raw.githubusercontent.com/sosan/sosan/master/assets/docker.svg)      |
-|  Redis (Certificated)     |![Redis](https://raw.githubusercontent.com/sosan/sosan/master/assets/redis.svg)      |  K3S/K0S          |      |
-|  KeyDB                    |      |  Envoy            |![Envoy](https://raw.githubusercontent.com/sosan/sosan/master/assets/envoy.svg)      |
-|  ScyllaDB (Certificated)  |![ScyllaDB](https://raw.githubusercontent.com/sosan/sosan/master/assets/scylladb.svg)      |  Istio            |![Istio](https://raw.githubusercontent.com/sosan/sosan/master/assets/istio.svg)      |
-|  Clickhouse               |![ClickHouse](https://raw.githubusercontent.com/sosan/sosan/master/assets/clickhouse.svg)      |  Github Actions   |![Github Actions](https://raw.githubusercontent.com/sosan/sosan/master/assets/githubactions.svg)      |
-|  MongoDB                  |![Mongodb](https://raw.githubusercontent.com/sosan/sosan/master/assets/mongodb.svg)      |  Redpanda         |![Redpanda](https://raw.githubusercontent.com/sosan/sosan/master/assets/redpanda.svg)      |
-|  Mysql                    |![Mysql](https://raw.githubusercontent.com/sosan/sosan/master/assets/mysql.svg)      |  Opentelemetry    |![Opentelemetry](https://raw.githubusercontent.com/sosan/sosan/master/assets/opentelemetry.svg)      |
-|                           |      |  Grafana          |![Grafana](https://raw.githubusercontent.com/sosan/sosan/master/assets/grafana.svg)      |
-|                           |      |  Loki             |![Loki](https://raw.githubusercontent.com/sosan/sosan/master/assets/loki.svg)      |
-|                           |      |  Tempo            |![Tempo](https://raw.githubusercontent.com/sosan/sosan/master/assets/tempo.svg)      |
-|                           |      |  Prometheus       |![Prometheus](https://raw.githubusercontent.com/sosan/sosan/master/assets/prometheus.svg)      |
-|                           |      |  Terraform        |![Terraform](https://raw.githubusercontent.com/sosan/sosan/master/assets/terraform.svg)      |
-|                           |      |  Vault Hashicorp  |![Vault](https://raw.githubusercontent.com/sosan/sosan/master/assets/vault.svg)      |
-|                           |      |  K6               |![K6](https://raw.githubusercontent.com/sosan/sosan/master/assets/k6.svg)      |
-|                           |      |  ArgoCD           |![ArgoCD](https://raw.githubusercontent.com/sosan/sosan/master/assets/argocd.svg)      |
+| CockroachDB |![CockrouchDB](https://raw.githubusercontent.com/sosan/sosan/master/assets/cockroachdb.svg)      |  Github Actions   |![Github Actions](https://raw.githubusercontent.com/sosan/sosan/master/assets/githubactions.svg)      |
+| Postgres     |![Postgres](https://raw.githubusercontent.com/sosan/sosan/master/assets/postgres.svg)  | Opentelemetry    |![Opentelemetry](https://raw.githubusercontent.com/sosan/sosan/master/assets/opentelemetry.svg) |
+|  ScyllaDB (Certificated)  |![ScyllaDB](https://raw.githubusercontent.com/sosan/sosan/master/assets/scylladb.svg)      |  Prometheus       |![Prometheus](https://raw.githubusercontent.com/sosan/sosan/master/assets/prometheus.svg)          |      |
+|  Clickhouse               |![ClickHouse](https://raw.githubusercontent.com/sosan/sosan/master/assets/clickhouse.svg)                          |  Terraform        |![Terraform](https://raw.githubusercontent.com/sosan/sosan/master/assets/terraform.svg)      |
+|  MongoDB                  |![Mongodb](https://raw.githubusercontent.com/sosan/sosan/master/assets/mongodb.svg)      |  Grafana          |![Grafana](https://raw.githubusercontent.com/sosan/sosan/master/assets/grafana.svg)      |
+|  Mysql                    |![Mysql](https://raw.githubusercontent.com/sosan/sosan/master/assets/mysql.svg)      |  Redpanda         |![Redpanda](https://raw.githubusercontent.com/sosan/sosan/master/assets/redpanda.svg) |
+|  Redis (Certificated)     |![Redis](https://raw.githubusercontent.com/sosan/sosan/master/assets/redis.svg)      |  Docker           |![Docker](https://raw.githubusercontent.com/sosan/sosan/master/assets/docker.svg)      |
+|  KeyDB  |    |  ArgoCD           |![ArgoCD](https://raw.githubusercontent.com/sosan/sosan/master/assets/argocd.svg)      |
 |                           |      |  Jenkins          |![Jenkins](https://raw.githubusercontent.com/sosan/sosan/master/assets/jenkins.svg)      |
+| | | Istio            |![Istio](https://raw.githubusercontent.com/sosan/sosan/master/assets/istio.svg) |
+| | | Loki             |![Loki](https://raw.githubusercontent.com/sosan/sosan/master/assets/loki.svg) |
+| | | Envoy            |![Envoy](https://raw.githubusercontent.com/sosan/sosan/master/assets/envoy.svg) |
+| | | Tempo            |![Tempo](https://raw.githubusercontent.com/sosan/sosan/master/assets/tempo.svg) |
 |                           |      |  Unity            |![Unity](https://raw.githubusercontent.com/sosan/sosan/master/assets/unity.svg)      |
+| | | Vault Hashicorp  |![Vault](https://raw.githubusercontent.com/sosan/sosan/master/assets/vault.svg) |
+| | | K6               |![K6](https://raw.githubusercontent.com/sosan/sosan/master/assets/k6.svg) |
+| | | K3S / K0S |
 
 
 

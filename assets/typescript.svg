@@ -1,18 +1,18 @@
-<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 145 34" width="145" height="34">
-	<title>Proyecto nuevo</title>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 181 34" width="181" height="34">
+	<title>iconos</title>
 	<defs>
-		<image width="114" height="34" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHIAAAAiCAYAAACDU42KAAAAAXNSR0IArs4c6QAAAN5JREFUaEPt28EJg2AQROGxlHSgnSWdaEeWoB2kk4QVBMUK9vE8BU87+zGag/+Q5BevLhvYkqxJliTf69CDkF0MH3POST7nXSHbOh6DV0On+iFkb8iavh6zbyH7Q1aCl5AMyEVIBuQmJAPSPzsQRyGFpGwAksN3pJCQDUBi2EghIRuAxLCRQkI2AIlhI4WEbAASw0YKCdkAJIaNFBKyAUgMGykkZAOQGDZSSMgGIDFsJANyF5IB6eeQDEc/UCY4emQAoLgnGSuH78i+mkcTz/GF7AVZDayDrnU28nbQ9Q8bATEOIJYjTAAAAABJRU5ErkJggg=="/>
-		<image aria-label="TS"  width="22" height="14" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAOCAMAAAAc7xz/AAAAAXNSR0IB2cksfwAAAD9QTFRFAAAA////////////////////////////////////////////////////////////////////////////////Q7v6agAAABV0Uk5TAP8wr9+fQMDQ7+DwsKBwEIC/IGBQ+pHa5wAAAHVJREFUeJx1kNsSgzAIBdk0BatNE6P//60lvVhNR16AHTiHQeQk2EIkXDzFqzo2swEGTxJuYCNM7wWFNiB3CL6SHkdskHfyX1xg1n+c7eVYO+xVckeWHrdmgnrAa/446B5Xom5n/nBw3ThHSN0lpRmO5exP8gTB1ALze8f4CgAAAABJRU5ErkJggg=="/>
-		<image aria-label="Typescript"  width="93" height="17" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF0AAAARCAMAAACINVDmAAAAAXNSR0IB2cksfwAAAFFQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////CDfnXgAAABt0Uk5TAEC/j/+wMD8gwNCAUHAQoO/fz6+fYJDw4F9/MTHhxAAAAadJREFUeJy1k412wiAMhYHdYimYtmp/5vs/6G5Au2p1Z/PMnKNNQ/gaboIx/2HWfTxZwWKv06vNZr+r8zOE0AANH6/T65juIgHx6lrAvo5+aBv6HhC+tGhMRIgd0OeK0oGqHb0xcqLTqcJDryGrkDB2gfnIlP1BE0gJHXrn/IouEwa+6D+zyZ+hgQFoY0An+t04zhRw1NUGk9KBeVzomGMLOMYnzCGs6dx9UNgkmh3z8TojrCi7e/5GemLqsmp9prd0r/RGcjXDI925y7P97SW7xBOwo50QtOTTpyyrRd7ZrOh6dtMo4UFXWZzoF5jdm/I5G6/zGoyMqrvqFr7pYU23S+wBfeBe9jRna4NTqT1ZNRVREqWob2q/oefa5ye1c6FkMJujIY6Nk4vIHJ+BF4Sv9qJ7Sht6v9J93NCZNUl5wp05dilnu/ORJRN6olOa7s4H9e7oHMcjcqhC5zq5pddlBPK8TxyBMu+8yqiYkCqVXxVKesjKb2rfU7hpVKhnRlObG7O5p2bdt9/bzzde9LTBvIlOgTH5d9GNT7b0wdTW/50u9rp9sS+vQhP+AgRBbQAAAABJRU5ErkJggg=="/>
+		<image  width="151" height="34" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJcAAAAiBAMAAACgtlaMAAAAAXNSR0IB2cksfwAAADBQTFRFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWj8cCwAAABB0Uk5T/+evWBAAx0hnjyCQz9BosIvjqnkAAABTSURBVHicY2CgDmBUdg0NoJJZQJBOTcMYW6loGEM6NQ3jXEBFw9g2UNEwxgNUNGwUjIJRMApGwcgFjBeoaBhVqzqqVsLUbB4wPh2cTSrGz8DGHgDS5AzPb0d9kgAAAABJRU5ErkJggg=="/>
+		<image aria-label="TS"  width="21" height="12" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAMCAMAAAC6EAb3AAAAAXNSR0IB2cksfwAAAD9QTFRF////AAAA////////////////////////////////////////////////////////////////////////////zWOQPQAAABV0Uk5T/wAwr9+fQMDQ7+DwsKBwEIC/IGBQdFbZmgAAAG9JREFUeJxljlESwjAIRN+mEWprTRq9/1mlnY6TKD8Lb2AX+JaUppB8M+HuM8whSnfwBVbFhgwsRA9IcbA9B+pQdFZPK+z2R4ufYW2k0W0RxuuHHsMKrafvcrlbRxvZrv86msIz7xm28Yd6ZC1V+gB85wMdrnMVxQAAAABJRU5ErkJggg=="/>
+		<image aria-label="Typescript"  width="92" height="17" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFwAAAARCAMAAABn9zvYAAAAAXNSR0IB2cksfwAAAFFQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////CDfnXgAAABt0Uk5TAEC/j/+wMD8gwNCAUHAQoO/fz6+fYJDw4F9/MTHhxAAAAaZJREFUeJy1kw9zgjAMxdvuUSmtAVT+zO//QffSIqJ4u83bcqeENP2RvqTG/IFZ9/F6Aau9D692m/2h1kcIoQEaPt6H1zE9RQLi4lnAvk9+ac/wIyB8adGYiBA7oM/1pBMlO3tj5EKnU3WHXkNWGWHsAvORKceTJpASOvTO+TtcJgx80X8mEz9DAwPQxoBO9LNxnKneqKsNJoUD87jCMccWcIxPmEPYwLn5pKxJNDnms3VGWE92j/yN9MTUZdX6DG/p3uCN5GKGF5pzk2fj2yW5xBNwoF0QtODLp6yrRdrZbOB6ctMoYd9Qlib6ASb3pnzNxtugBiOjaq6ihTs8bOF2je3hA7eynTlZe5tK5cmqqYCSqEP9UPkDPFc+v66c8ZLAZA6FOPZMFoE5OAPvBV/tonlKO3i/0Xx8hjNpkvKEu3LeUk521zMLJvNCp/TbXU/qPcE5h2fkUIXOdfIAr0vz85xPbH6Zc15gVExIlUqv8iQ9YuV3lR+p2jQq0zOjqR/ulc3tNNuW/dy+veeiRw3mf+AUF5P/J7jxyUrxaut/Dxd7277aFw5lE/5pIXWuAAAAAElFTkSuQmCC"/>
 	</defs>
 	<style>
 		.s0 { fill: #1d94dc } 
 	</style>
 	<path id="Forma 3" class="s0" d="m0 8c0-4.4 3.6-8 8-8h21c4.4 0 8 3.6 8 8v18c0 4.4-3.6 8-8 8h-21c-4.4 0-8-3.6-8-8z"/>
 	<path id="guia" class="s0" d="m0 8c0-4.4 3.6-8 8-8h14c4.4 0 8 3.6 8 8v18c0 4.4-3.6 8-8 8h-14c-4.4 0-8-3.6-8-8z"/>
-	<use id="Forma 4" href="#img1" transform="matrix(1,0,0,1,30.5,0)"/>
+	<use id="forma 13 hasta 10" href="#img1" x="30" y="0"/>
 	<g id="typescript - 10">
-		<use id="TS" href="#img2" x="4" y="10"/>
-		<use id="Typescript" href="#img3" x="37" y="10"/>
+		<use id="TS" href="#img2" x="5" y="11"/>
+		<use id="Typescript" href="#img3" x="38" y="10"/>
 	</g>
 </svg>

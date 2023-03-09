@@ -1,7 +1,7 @@
-<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 131 34" width="131" height="34">
-	<title>Proyecto nuevo</title>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 181 34" width="181" height="34">
+	<title>iconos</title>
 	<defs>
-		<image  width="101" height="34" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGUAAAAiBAMAAAC0DwooAAAAAXNSR0IB2cksfwAAADBQTFRFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWj8cCwAAABB0Uk5T/+evWBAAx0hnjyCQz9BosIvjqnkAAABOSURBVHicY2AgCTAqu4YGkKYFCNLJ0MPYSroehnQy9HAuIF0P2wbS9TAeIF3PKBgFo2AUwADjBdL1kFNWkVMmklH2Mj6lR13C+BlYZwEAFBUMz2oJpBkAAAAASUVORK5CYII="/>
+		<image  width="151" height="34" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJcAAAAiBAMAAACgtlaMAAAAAXNSR0IB2cksfwAAADBQTFRFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWj8cCwAAABB0Uk5T/+evWBAAx0hnjyCQz9BosIvjqnkAAABTSURBVHicY2CgDmBUdg0NoJJZQJBOTcMYW6loGEM6NQ3jXEBFw9g2UNEwxgNUNGwUjIJRMApGwcgFjBeoaBhVqzqqVsLUbB4wPh2cTSrGz8DGHgDS5AzPb0d9kgAAAABJRU5ErkJggg=="/>
 		<image  width="28" height="14" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAOCAMAAAALzYw2AAAAAXNSR0IB2cksfwAAAWtQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////iXaVuwAAAHl0Uk5TACd0nKaJQgImYHp3TAkjq/7/yBxe2ullA0Dv2QwGmv2eABfU57rH92Fm+tfe+zoUlaAVScKRTkv4UgcLfKHuxQUstPU3ztU7bu2k4gFfgKK/0Vd4WpvL9pY2/N0gE+j5LkHN6t+Zc5Szn0TGCAryEa2BbaqnfT5oGikLijIAAAEjSURBVHicPZDnQ8IwEMVPrRYUhIcTRaFqcSJusTjQ4oY6caCIG3Errj/fa2h5H3Iv98vdJSESqqqukWrrZOFlh7O+weUmS40eL0z5mhg1twjf2tYumL8DljoDXd1eywdDCimBnl62fWq4n8PA4BCnh9WRIBAZJSU6xsnxCZInp6ZnZmNcPqdRfJ7pAsNFYClBy35TK4CeNEdpq8AaKetcuEHRTXuur3yRLWCbUmlOuMiwGXYES+0Ce0T7nDigQ8PIBAU8SpgweQycEJ1mgbNzopwHyF4A+XSClMsw4L0icl/z8RtJuuVwd89LPlx40PlBxRR3eIzZ457iz2pldubFbK84X8UuEsoRvb2Xkf6hWX8b/ZRKX9+O8rf/FEql4u+f6f8BCFwwE76FvkwAAAAASUVORK5CYII="/>
 		<image aria-label="Golang"  width="62" height="17" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAAARCAMAAACy5e+VAAAAAXNSR0IB2cksfwAAAFRQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////MF88lgAAABx0Uk5TAEB/n+//3yCAwHCgEJDgsFDPYDCv0PC/b48/X6iZzz8AAAE9SURBVHicnVKLkoMgDAQ1QhTqq9D27v//8zaAbfXaqdPMiEnYJdmAUu9MV9XbvS2wboja2myzlugQGzhixtJ9Q++IeqeU86dt+WN009DwFI4T2pjGO32WuMkxexG5wHc1sudALMWfqs7QYSFkLnQXYy/xmDUGuI1TrqXofQRWeTo92K6hHr9eMLm6gS4VJIvYp/M7lIzoYcn0thS+eKVzK4ZIr9r1taom4NaYyKoh6+XcvCuj4vu4BJN801Iyzvtli/EVukk9Ffq/6j0xDvc7uqdJ3JNkPFF6XkBiUlQnNxbtLGdjUls6jr+l6XMC48mdm3Uyl+rymDyWW9XumxcYLObMHCQYdJqUPD/W93uX6wnDnq6MtXbhnJEbcwde2JO5fMvdR+BL4/b68ztRNJ+hr2rbKHLD8l1xmNZayH+ZXw3ujXstGAAAAABJRU5ErkJggg=="/>
 	</defs>
@@ -10,7 +10,7 @@
 	</style>
 	<path id="Forma 3" class="s0" d="m0 8c0-4.4 3.6-8 8-8h21c4.4 0 8 3.6 8 8v18c0 4.4-3.6 8-8 8h-21c-4.4 0-8-3.6-8-8z"/>
 	<path id="guia" class="s0" d="m0 8c0-4.4 3.6-8 8-8h14c4.4 0 8 3.6 8 8v18c0 4.4-3.6 8-8 8h-14c-4.4 0-8-3.6-8-8z"/>
-	<use id="forma 7 hasta 6" href="#img1" x="30" y="0"/>
+	<use id="forma 13 hasta 10" href="#img1" x="30" y="0"/>
 	<g id="golang - 6">
 		<use id="go" href="#img2" x="0" y="10"/>
 		<use id="golang" href="#img3" x="38" y="10"/>

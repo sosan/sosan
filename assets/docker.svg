@@ -1,7 +1,7 @@
-<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 131 34" width="131" height="34">
-	<title>Proyecto nuevo</title>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 181 34" width="181" height="34">
+	<title>iconos</title>
 	<defs>
-		<image  width="101" height="34" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGUAAAAiBAMAAAC0DwooAAAAAXNSR0IB2cksfwAAADBQTFRFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWj8cCwAAABB0Uk5T/+evWBAAx0hnjyCQz9BosIvjqnkAAABOSURBVHicY2AgCTAqu4YGkKYFCNLJ0MPYSroehnQy9HAuIF0P2wbS9TAeIF3PKBgFo2AUwADjBdL1kFNWkVMmklH2Mj6lR13C+BlYZwEAFBUMz2oJpBkAAAAASUVORK5CYII="/>
+		<image  width="151" height="34" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJcAAAAiBAMAAACgtlaMAAAAAXNSR0IB2cksfwAAADBQTFRFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWj8cCwAAABB0Uk5T/+evWBAAx0hnjyCQz9BosIvjqnkAAABTSURBVHicY2CgDmBUdg0NoJJZQJBOTcMYW6loGEM6NQ3jXEBFw9g2UNEwxgNUNGwUjIJRMApGwcgFjBeoaBhVqzqqVsLUbB4wPh2cTSrGz8DGHgDS5AzPb0d9kgAAAABJRU5ErkJggg=="/>
 		<image aria-label="Docker"  width="61" height="13" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD0AAAANCAMAAAAtxpZ2AAAAAXNSR0IB2cksfwAAAFFQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////CDfnXgAAABt0Uk5TAIB/QMD/v5/w0BBw7zDfYKCQz+BQP68gb4+wXqQTgQAAAQ1JREFUeJydkuFyhDAIhNHLaoxRk2hrr+//oF3IWdvrOJ05fkQm5IMFFPnfmvZ2FXJQ6/rLByJAc0175wYm6MNLtOMZGuIv0yIjQPGhj0BsVUZ1VZHRI/zEEcyPO1ZbZnzT4pEkzPA5eRTCBT5lr6DSC0A4Mdys6IxmyyetTrYCEzBqeNKOqnLCi8hW7zxPhocgv+kVWd0EzZrOvgsskFHeaIVaavKTXvn8MZ/GEjUnTYvh2C5Q6T9Tu6qN0eNda883s/2JHqN+M+JT3x8286xT27Rv/am2SU46dl3H5Ti+CwPinZsaqtvfZ1Vg/TjVnvhXtAXrD9rsczGRgTvCah2HZO6x7920c11c5H7QXyfvDDlFC2GeAAAAAElFTkSuQmCC"/>
 		<image  width="27" height="19" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAATCAMAAABWWYYKAAAAAXNSR0IB2cksfwAAARFQTFRFAAAA+Pj4+Pj4Pj4+////fHx8////+Pj4////////////////+Pj4+Pj4////////+Pj4////////////////+Pj4+Pj4+Pj4+Pj4+Pj4////////////+Pj4+Pj4+Pj4+Pj4+Pj4////LS0t////+Pj4////////+Pj4+Pj4s7Oz////+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+fn5+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4////////////+Pj4////+Pj4////+Pj4+Pj4////////+Pj4+Pj4////+Pj4+Pj4+Pj4////+Pj4+Pj4////////////////////////////////////////mJA4QgAAAFt0Uk5TANX/ANUAa4AOVapyoL+gFaq/XwIQIGODymgLB47Uj5hxYEAAwGoqIwuVALUVI5x4h6NOGvzCf4r98cBQ41NHHAWArCzWMGwJEHVg7e6uSVlLElKDw//4kVkrBAEdSPQAAAD5SURBVHicdZHpVoNADEZDmJSCxkGpdqzijlqrVerWat33fa3b+z+IDhXkCL0/c5PvnCQAKQw0oAemQGFmil2oYBX+O7NoO06f49j9PGD+9sZDJC1EF9EyUJAOsAeHKHJeSQ6PMJeVGnWVW5FyjMbRL5IeLU3w5FTipplnZucQg/mFRQDJqKpxpvGTbi/VUOPD8kqV66vMa8xByGHA3FgPtdrYhK0s2z5is7WzC5hLe2//4LCHOyK9osoxzeOTaPlyjjs98yLXaGfd+UX3LJdXGXVN8cVl/SYtbu/uKfkCyYe/2Jb7+OSl/kSV55dX0em8idr7x+dXEgjfTAIbxD3B3mcAAAAASUVORK5CYII="/>
 	</defs>
@@ -10,7 +10,7 @@
 	</style>
 	<path id="Forma 3" class="s0" d="m0 8c0-4.4 3.6-8 8-8h21c4.4 0 8 3.6 8 8v18c0 4.4-3.6 8-8 8h-21c-4.4 0-8-3.6-8-8z"/>
 	<path id="guia" class="s0" d="m0 8c0-4.4 3.6-8 8-8h14c4.4 0 8 3.6 8 8v18c0 4.4-3.6 8-8 8h-14c-4.4 0-8-3.6-8-8z"/>
-	<use id="forma 7 hasta 6" href="#img1" x="30" y="0"/>
+	<use id="forma 13 hasta 10" href="#img1" x="30" y="0"/>
 	<g id="docker - 6">
 		<use id="docker" href="#img2" x="39" y="10"/>
 		<use id="docker" href="#img3" x="2" y="8"/>
