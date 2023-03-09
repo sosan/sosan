@@ -1,0 +1,18 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 181 34" width="181" height="34">
+	<title>iconos</title>
+	<defs>
+		<image  width="151" height="34" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJcAAAAiBAMAAACgtlaMAAAAAXNSR0IB2cksfwAAADBQTFRFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWj8cCwAAABB0Uk5T/+evWBAAx0hnjyCQz9BosIvjqnkAAABTSURBVHicY2CgDmBUdg0NoJJZQJBOTcMYW6loGEM6NQ3jXEBFw9g2UNEwxgNUNGwUjIJRMApGwcgFjBeoaBhVqzqqVsLUbB4wPh2cTSrGz8DGHgDS5AzPb0d9kgAAAABJRU5ErkJggg=="/>
+		<image aria-label="K0S"  width="35" height="14" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAOCAMAAACSNVWDAAAAAXNSR0IB2cksfwAAAEtQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////g5kLBwAAABl0Uk5TAMD/YBCfz9+/QI8gMKDv4JCAUPDQcLCvf9jTI4YAAADNSURBVHicjVHbFsMgCNPoartZteK6/f+XDtDu9lRewpEQAhpzIiysgAMcg79MCPOilWUGEK63gxOBVSAhFwtsnFeALAF5cLi2dtHmjbkD3NyQOV/22jk+YTddrQqSdADTlx8/absKfDzuwCO+OQ24a74NzobE9tthmTka8ZdDAnVly0n9gCph8v+zNByJpAVF2bPIRYbnLCv0IxUZ0XtKr1o8ulxkvp7SivTQbUjsbiGE50VFeT5fPGg+ODfCLLBzyTp9KZl3ae7MhxrzAi6eB5Qs+2TEAAAAAElFTkSuQmCC"/>
+		<image  width="25" height="26" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAaCAMAAAB1owf/AAAAAXNSR0IB2cksfwAAAQhQTFRF////////////////////////////AAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////o8/+IAAAAFh0Uk5TzMZc//OlRQD5pykD4XoVAf7STygZGAkQChJmMD8CIWjwC1/ZhDa77w+A1YcrvPit+1bjv4bL8UndZA76kQX9tz4aU3wRqWIWaSIdJonQ0dZN1FQGL+yjLHKmCDcAAADwSURBVHicbdFpV4JAFAZgcqhrUYCGaCXumuaSZVaaKS64b5nL//8nwYDBHO/7Zd6Z58w5s3AcnjMfR7Dw5xeAiv/ySkDl+kaUABE5EBQBjnKruAmpAK6EwYkUccrdPSvCQ5SOWiyeYCSZSmdoyeYeiVfyhSdStEqpXCFeyT7LhIpYtdZceXk1gYpCWKnR9oZI3SrvH6zIeUc+G01GvlrfVNodnZ6x60il05OseT3QH4BX+HLUfhFjOAJGxjHJnk80YMW+viZ4MrWFwmy+WLpZ/Yu6/mmf/qwpoc1KRv6c+90aO2TdFH3PYztMOWx8eP4AjB0haDUnpjYAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		.s0 { fill: #1d94dc } 
+	</style>
+	<path id="Forma 3" class="s0" d="m0 8c0-4.4 3.6-8 8-8h21c4.4 0 8 3.6 8 8v18c0 4.4-3.6 8-8 8h-21c-4.4 0-8-3.6-8-8z"/>
+	<path id="guia" class="s0" d="m0 8c0-4.4 3.6-8 8-8h14c4.4 0 8 3.6 8 8v18c0 4.4-3.6 8-8 8h-14c-4.4 0-8-3.6-8-8z"/>
+	<use id="forma 13 hasta 10" href="#img1" x="30" y="0"/>
+	<g id="k0s">
+		<use id="k3s" href="#img2" x="39" y="10"/>
+		<use id="k0s" href="#img3" x="3" y="4"/>
+	</g>
+</svg>

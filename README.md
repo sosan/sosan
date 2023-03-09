@@ -51,8 +51,8 @@ Hi, My name is Jose Luis, I'm from Mallorca(Spain). I'm game developer.<br>
 |                           |      |  Unity            |![Unity](https://raw.githubusercontent.com/sosan/sosan/master/assets/unity.svg)      |
 | | | Vault Hashicorp  |![Vault](https://raw.githubusercontent.com/sosan/sosan/master/assets/vault.svg) |
 | | | K6               |![K6](https://raw.githubusercontent.com/sosan/sosan/master/assets/k6.svg) |
-| | | K3S / K0S |![K3S](https://raw.githubusercontent.com/sosan/sosan/master/assets/k3s.svg)| 
-
+| | | K3S   |![K3S](https://raw.githubusercontent.com/sosan/sosan/master/assets/k3s.svg)| 
+| | | K0S   |![K0S](https://raw.githubusercontent.com/sosan/sosan/master/assets/k0s.svg)| 
 
 
 <img align="center" src="https://university.redislabs.com/static/certificates/images/ico-honor.png" height="20" alt="certificates redis" />&nbsp;<a href="https://university.redislabs.com/certificates/user/3498/course/course-v1:redislabs+RU102PY+2020_01" target="_blank">
