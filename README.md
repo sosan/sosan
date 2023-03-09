@@ -28,8 +28,8 @@ Hi, My name is Jose Luis, I'm from Mallorca(Spain). I'm game developer.<br>
 
 | **Languages**             |      | **Frameworks**    |      |
 |---------------------------|------|-------------------|------|
-|  JavaScript/TypeScript    |![Typescript](https://raw.githubusercontent.com/sosan/sosan/master/assets/typescript.svg)      |  React            |![React](https://raw.githubusercontent.com/sosan/sosan/master/assets/react.svg)      |
-|  Golang                   |      |  React Native     |      |
+|  JavaScript/TypeScript    |![Typescript](https://raw.githubusercontent.com/sosan/sosan/master/assets/typescript.svg)      |  React / React Native           |![React](https://raw.githubusercontent.com/sosan/sosan/master/assets/react.svg)      |
+|  Golang                   |      |                   |      |
 |  Python                   |![Python](https://raw.githubusercontent.com/sosan/sosan/master/assets/python.svg)      |  Ionic            |      |
 |  C#                       |![C#](https://raw.githubusercontent.com/sosan/sosan/master/assets/csharp.svg)      |  NodeJS           |      |
 |                           |      |  Express / NodeJS |![Nodejs](https://raw.githubusercontent.com/sosan/sosan/master/assets/nodejs.svg)      |
