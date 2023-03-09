@@ -1,0 +1,17 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 181 34" width="181" height="34">
+	<title>iconos</title>
+	<defs>
+		<image  width="151" height="34" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJcAAAAiBAMAAACgtlaMAAAAAXNSR0IB2cksfwAAADBQTFRFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWj8cCwAAABB0Uk5T/+evWBAAx0hnjyCQz9BosIvjqnkAAABTSURBVHicY2CgDmBUdg0NoJJZQJBOTcMYW6loGEM6NQ3jXEBFw9g2UNEwxgNUNGwUjIJRMApGwcgFjBeoaBhVqzqqVsLUbB4wPh2cTSrGz8DGHgDS5AzPb0d9kgAAAABJRU5ErkJggg=="/>
+		<image aria-label="Fiber"  width="44" height="14" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAOCAMAAABjPg4OAAAAAXNSR0IB2cksfwAAAE5QTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////////kJcbLQAAABp0Uk5TAEC/jyB/wP+w8JAwgFDf7xCf4KDQYHA/X6+57dQ1AAAAu0lEQVR4nJWR2xKDIAxEgyBbEUEFbfv/P9oEp9SZai/7QkgOmwBEVarRRKZtDZ3KYpOlC8AnAPUJ7qzIUe+H77Ddb3+FvUQM+wBEPXLGTDxfGArlJi6/w5h9AhpmI7KEw3az2fESG1Ff4cymiyAJmT1WhAKvu9dQFV6kzQxHgL6yAMNUPp5ZPdNANbJIx/DO2amikSl/DIdRBi0zSzjeCnUCI+i7/CiZDqHVUVqdwmsGulIzqTzky/kfPQAI8QnfubBo8QAAAABJRU5ErkJggg=="/>
+		<image  width="30" height="34" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAiCAMAAAB/VplGAAAAAXNSR0IB2cksfwAAAGZQTFRFAAAAHZTcHZTcHZTcHZTcHZTcVK7lbbroMJ3f3e/6+Pz+JJfdbrroud70Jpjd2e35////tdzzhsbs9Pr9j8ruQKThS6rjMp7fIJXcIZbdHpTcOKHgut70yub3H5Xcm9Dv+vz+HZTcvrm+KAAAACJ0Uk5TACCPz/+Q////////////////////////////////////0F5rqaYAAACcSURBVHiczZPZEoMgDEUBk2p3rXaxO///k1VTHAcSeKgPPa9nkhtmuEp1aJOBR2a0+mJ8RxiyweS4obcoWQDscmULoGPD/biYTOkxC/AfepH7THWxXPlM9HqzDZjjtN2+ZKlIH2qehvTxxHPmsi+t48ro2/3hKEL9fI2Xvds53v2LtjFrUx85UYNEiZScbqmiwjy6gmsMNlgc6v8BD00YalZZpo4AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		.s0 { fill: #1d94dc } 
+	</style>
+	<path id="Forma 3" class="s0" d="m0 8c0-4.4 3.6-8 8-8h21c4.4 0 8 3.6 8 8v18c0 4.4-3.6 8-8 8h-21c-4.4 0-8-3.6-8-8z"/>
+	<use id="forma 13 hasta 10" href="#img1" x="30" y="0"/>
+	<g id="fiber">
+		<use id="fiber" href="#img2" x="39" y="10"/>
+		<use id="Layer" href="#img3" x="0" y="0"/>
+	</g>
+</svg>
