@@ -45,15 +45,15 @@ Hi, My name is Jose Luis, I'm from Mallorca(Spain). I'm game developer.<br>
 |  Clickhouse               |![ClickHouse](https://raw.githubusercontent.com/sosan/sosan/master/assets/clickhouse.svg)      |  Github Actions   |      |
 |  MongoDB                  |![Mongodb](https://raw.githubusercontent.com/sosan/sosan/master/assets/mongodb.svg)      |  Redpanda         |      |
 |  Mysql                    |![Mysql](https://raw.githubusercontent.com/sosan/sosan/master/assets/mysql.svg)      |  Opentelemetry    |      |
-|                           |      |  Grafana          |      |
-|                           |      |  Loki             |      |
-|                           |      |  Tempo            |      |
-|                           |      |  Prometheus       |      |
-|                           |      |  Terraform        |      |
-|                           |      |  Vault Hashicorp  |      |
-|                           |      |  K6               |      |
-|                           |      |  ArgoCD           |      |
-|                           |      |  Jenkins          |      |
+|                           |      |  Grafana          |![Mysql](https://raw.githubusercontent.com/sosan/sosan/master/assets/grafana.svg)      |
+|                           |      |  Loki             |![Mysql](https://raw.githubusercontent.com/sosan/sosan/master/assets/loki.svg)      |
+|                           |      |  Tempo            |![Mysql](https://raw.githubusercontent.com/sosan/sosan/master/assets/tempo.svg)      |
+|                           |      |  Prometheus       |![Mysql](https://raw.githubusercontent.com/sosan/sosan/master/assets/prometheus.svg)      |
+|                           |      |  Terraform        |![Mysql](https://raw.githubusercontent.com/sosan/sosan/master/assets/terraform.svg)      |
+|                           |      |  Vault Hashicorp  |![Mysql](https://raw.githubusercontent.com/sosan/sosan/master/assets/vault.svg)      |
+|                           |      |  K6               |![Mysql](https://raw.githubusercontent.com/sosan/sosan/master/assets/k6.svg)      |
+|                           |      |  ArgoCD           |![Mysql](https://raw.githubusercontent.com/sosan/sosan/master/assets/argocd.svg)      |
+|                           |      |  Jenkins          |![Mysql](https://raw.githubusercontent.com/sosan/sosan/master/assets/jenkins.svg)      |
 |                           |      |  Unity            |![UNITY](https://raw.githubusercontent.com/sosan/sosan/master/assets/unity.svg)      |
 
 
